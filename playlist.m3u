@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="General",Ame 47
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="General",Antena 7
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="CDN.do" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="General",CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="Sports",CDN Deportes
+https://fl1002.bozztv.com/ssh101/cdndeportes/index.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="Sports",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="Coral39.do" tvg-logo="https://i.imgur.com/k6cv9A9.png" group-title="",Coral 39
+http://51.81.93.29:8084/hls/coral39.m3u8
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="News",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="General",Digital 15
+https://glb.bozztv.com/glb/ssh101/0015/index.m3u8
+#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do" tvg-logo="https://i.imgur.com/yjuTl6N.png" group-title="News",El Nuevo Diario TV
+https://glb.bozztv.com/glb/ssh101/0048/index.m3u8
