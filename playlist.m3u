@@ -137,7 +137,7 @@ http://200.60.124.19:29000/play/a06v
 #EXTINF:-1 tvg-name="611 AMC Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685541226090-Ms_Chic.webp" group-title="Peliculas",AMC HD
 http://nxt.plus:8080/jesus01/jesus01/24818
 
-#EXTINF:-1 tvg-name="Cinemax Latino HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542203438-Frame_77_(1).webp" group-title="Peliculas",CINEMAX
+#EXTINF:-1 tvg-name="138 Cinemax Latino HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542203438-Frame_77_(1).webp" group-title="Peliculas",CINEMAX
 http://nxt.plus:8080/jesus01/jesus01/59083
 
 #EXTINF:-1 tvg-name="386" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CINE
