@@ -28,19 +28,19 @@ https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
 #EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="Noticias",De Ultimo Minuto TV CH-06
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 
-#EXTINF:-1 tvg-id="CH-07.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM2Sa7Qb8SGTiq-W4d8ri-XVU5W9wHqbapADc035QnbgZamgREiDM33utK5EMTRPrgA7InLoMByBSHF9Z8059jsMnq9cyCp-Z5w1EW1ZEPXRvA9QQJSTDNObOBUcpYt19RO5uruVM1UXc/w700-h400-p-k-no-nu/Antena+Latina+canal+7.png" group-title="Variedades",Antena7 CH-07
+#EXTINF:-1 tvg-id="7_republica_dominicana" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM2Sa7Qb8SGTiq-W4d8ri-XVU5W9wHqbapADc035QnbgZamgREiDM33utK5EMTRPrgA7InLoMByBSHF9Z8059jsMnq9cyCp-Z5w1EW1ZEPXRvA9QQJSTDNObOBUcpYt19RO5uruVM1UXc/w700-h400-p-k-no-nu/Antena+Latina+canal+7.png" group-title="Variedades",Antena7 CH-07
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="CH-08.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes CH-08
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
-#EXTINF:-1 tvg-id="CH-09.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9B35QZ1e1bgEh6ecR-EMbHGi4OjM89ph9CwjT9WvhNbcApTwR-5VTSVFSER_euyQByRpLppsECwx5jD8KGJsVCn9Srbc2lKlUdQEcVAm-Wl5LCq1OQz_0bvO6TonhWUDA6oygB-uYqYW4/w700-h400-p-k-no-nu/Color+Vision+canal+9+Dominicano+en+vivo+%25281%2529.png" group-title="Variedades",Color Vision CH-09
+#EXTINF:-1 tvg-id="9_republica_dominicana" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9B35QZ1e1bgEh6ecR-EMbHGi4OjM89ph9CwjT9WvhNbcApTwR-5VTSVFSER_euyQByRpLppsECwx5jD8KGJsVCn9Srbc2lKlUdQEcVAm-Wl5LCq1OQz_0bvO6TonhWUDA6oygB-uYqYW4/w700-h400-p-k-no-nu/Color+Vision+canal+9+Dominicano+en+vivo+%25281%2529.png" group-title="Variedades",Color Vision CH-09
 http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 
 #EXTINF:-1 tvg-id="CH-10.DOM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision CH-10
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
-#EXTINF:-1 tvg-id="CH-11.DOM" tvg-logo="https://lh3.googleusercontent.com/0fLTIUG3Hff9fgixYphTUu30rdt1NDwhfyaoonFJXUPMNM_F0AdQ9qu595juedtI5MoHNf7u8KsM4Ow339aj0AZfXP8jARIcAYCxTe7dv3XSXHroX0lka6K0LQFTH8LMCMyA4dNZ=w700-h400-p-k-no-nu" tvg-name="Telesistema" group-title="Variedades",Telesistema CH-11
+#EXTINF:-1 tvg-id="telesistema_11" tvg-logo="https://lh3.googleusercontent.com/0fLTIUG3Hff9fgixYphTUu30rdt1NDwhfyaoonFJXUPMNM_F0AdQ9qu595juedtI5MoHNf7u8KsM4Ow339aj0AZfXP8jARIcAYCxTe7dv3XSXHroX0lka6K0LQFTH8LMCMyA4dNZ=w700-h400-p-k-no-nu" tvg-name="Telesistema" group-title="Variedades",Telesistema CH-11
 https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
 
 #EXTINF:-1 tvg-id="CH-13.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLBF149W9zH5x1RK8uCHJBaz4sua7446hgnVIFSIFGgeEUEAwEeJ7-eFjZugX6RQm75UHF5xD0Ei2LlJCoZVif5cj8r6dRB2avNryzkMWHp3LknSlhN6mkVgCw5Sid6t81Ogwh47Do5n-t/w700-h400-p-k-no-nu/Telecentro+en+vivo.jpg" group-title="Variedades",Telecentro CH-13
