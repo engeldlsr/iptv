@@ -1,7 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 #Canales de República Dominicana
-#EXTINF:-1 tvg-name="Teleuniverso TV" tvg-logo="" group-title="Noticias",Teleuniverso TV
+#EXTINF:-1 tvg-chno="29" tvg-name="Teleuniverso TV" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Noticias",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #Principales canales dominicanos
