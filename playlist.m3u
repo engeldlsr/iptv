@@ -143,7 +143,7 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 #EXTINF:-1 tvg-name="386" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="610 TNT America Latina" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas", TNT
+#EXTINF:-1 tvg-name="TNT AmericaLatina" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas", TNT
 http://200.52.150.5:8000/play/a0sq/index.m3u8
 
 #EXTINF:-1 tvg-name="129" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685546153004-Frame_83.webp" group-title="Peliculas",CINECANAL HD
