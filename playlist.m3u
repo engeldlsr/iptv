@@ -88,7 +88,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694459412478-Frame_169.webp" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY HD
+#EXTINF:-1 tvg-name="Sony Movies HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY HD
 http://200.52.150.5:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",E!
@@ -116,7 +116,7 @@ http://45.5.117.182:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
 http://190.61.42.218:9000/play/a008
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479323902-Frame_62_(1).webp" group-title="Peliculas",WBTV HD
+#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479323902-Frame_62_(1).webp" group-title="Peliculas",WBTV HD
 http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479868352-Space.webp" group-title="Peliculas",SPACE HD
@@ -152,7 +152,7 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477165961-A&E_Mundo.webp" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas", TNT CH-01
+#EXTINF:-1 tvg-name="TNT America Latina" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas", TNT CH-01
 http://200.52.150.5:8000/play/a0sq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685546153004-Frame_83.webp" group-title="Peliculas",CINECANAL HD
@@ -308,7 +308,7 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 ####### ESPN CHANNELS ###########
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN HD
+#EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN HD
 http://181.78.106.127:9000/play/ca033/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325892365-Frame_179.webp" group-title="Sports",ESPN 2 HD
@@ -320,35 +320,35 @@ http://45.228.234.210:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://futboldelbarrio.com/img/ESPN_3.png" group-title="Sports",ESPN 3 HD CH-303
 http://190.60.32.178:8178/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233939828-Frame_192.webp" group-title="Sports",ESPN  4 HD
+#EXTINF:-1 tvg-name="ESPN 4 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233939828-Frame_192.webp" group-title="Sports",ESPN  4 HD
 http://45.228.234.210:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/4c56ed09-f199-4de2-9261-ed25ad316835/scale-to-width/370" group-title="Sports",ESPN4 CH-2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/4c56ed09-f199-4de2-9261-ed25ad316835/scale-to-width/370" group-title="Sports",ESPN 4 HD
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233706644-Frame_201.webp" group-title="Sports",ESPN 5 HD
+#EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233706644-Frame_201.webp" group-title="Sports",ESPN 5 HD
 http://45.228.234.210:8000/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709234229570-Frame_213.webp" group-title="Sports",ESPN 6 HD
+#EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709234229570-Frame_213.webp" group-title="Sports",ESPN 6 HD
 http://45.169.163.83:8000/play/a19j
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Sports",ESPN Deportes CH-301
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Sports",ESPN Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
-#EXTINF:-1 tvg-id="ESPN7.Lat" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Sports",ESPN7 CH-304
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Sports",ESPN Premium
+#EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Sports",ESPN Premium
 http://209.45.20.210:50001/play/a02p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325347879-Frame_177.webp" group-title="Sports",Claro Sport
+#EXTINF:-1 tvg-name="Claro Sports 1" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325347879-Frame_177.webp" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
+#EXTINF:-1 tvg-name="Fox Sports Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sports",TVC Deportes
@@ -563,7 +563,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/65
 #EXTINF:-1 tvg-id="Discovery Turbo Latinoamerica" tvg-name="Discovery Turbo Latinoamerica" tvg-logo="Discovery Turbo" group-title="Documentales",Discovery Turbo
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/285
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Documentales",Discovery World
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="" group-title="Documentales",Discovery World
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/59
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",El Garage
