@@ -122,7 +122,7 @@ http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479868352-Space.webp" group-title="Peliculas",SPACE HD
 http://45.228.234.210:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539470319-Frame_70_(1).webp" group-title="Peliculas",LIFETIME
+#EXTINF:-1 tvg-name="406" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539470319-Frame_70_(1).webp" group-title="Peliculas",LIFETIME
 http://45.228.234.210:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685541132004-Frame_75_(1).webp" group-title="Peliculas",TCM
