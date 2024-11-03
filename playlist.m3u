@@ -82,7 +82,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694459412478-Frame_169.webp" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal Sony" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CHANNEL
+#EXTINF:-1 tvg-name="111" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CHANNEL
 http://200.52.150.5:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="E!" tvg-logo="" group-title="Otros",E!
