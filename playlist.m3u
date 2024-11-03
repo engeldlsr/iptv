@@ -565,10 +565,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/34
 #EXTINF:-1 tvg-name="Estrella TV" tvg-logo="" group-title="Otros",Estrella TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/418
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="" group-title="Otros",Food Network
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/27
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",Glitz
+#EXTINF:-1 tvg-name="Glitz" tvg-logo="" group-title="Otros",Glitz
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sports",Gol TV
