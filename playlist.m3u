@@ -206,7 +206,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Peliculas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539015974-Frame_68_(2).webp" group-title="Peliculas",Telemundo
+#EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539015974-Frame_68_(2).webp" group-title="Peliculas",Telemundo
 http://200.60.124.19:29000/play/a01g
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Peliculas",RCN Novelas
@@ -282,7 +282,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-name="" tvg-logo="" group-title="Otros",MTV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 
-#EXTINF:-1 tvg-name="MTV US" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685386716192-Frame_35_(3).webp" group-title="Peliculas",US: MTV
+#EXTINF:-1 tvg-name="MTVHD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685386716192-Frame_35_(3).webp" group-title="Peliculas",US: MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
 
@@ -577,7 +577,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/293
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sports",Golf Channel
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",Telemundo Int
+#EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Otros",Telemundo Int
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cartoon",Tooncast
