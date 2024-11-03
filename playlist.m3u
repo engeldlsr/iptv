@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="Noticias",En Television
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Noticias",Telenord10
+#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Noticias",Telenord10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Variedades",Punta Cana TV
