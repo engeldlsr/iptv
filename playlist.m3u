@@ -104,10 +104,10 @@ http://nxt.plus:8080/jesus01/jesus01/43497
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477355023-Studio_Universal.webp" group-title="Peliculas",STUDIO UNIVERSAL
 http://190.61.42.218:9000/play/a010
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-name="Universal Cinema East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
 http://45.5.117.182:8000/play/a0jz/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
+#EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
 http://190.61.42.218:9000/play/a008
 
 #EXTINF:-1 tvg-name="Warner LatinoAmerica HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479323902-Frame_62_(1).webp" group-title="Peliculas",WBTV HD
