@@ -1,6 +1,7 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 
 #Canales de República Dominicana
+
 #EXTINF:-1 tvg-chno="29" tvg-name="Teleuniverso TV" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Noticias",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
@@ -14,12 +15,9 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
-
-
 #EXTINF:-1  tvg-name="Teleantillas" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1693426531288-Frame_144.webp" group-title="Variedades",TELEANTILLAS
 #https://f.gmsiptv.com/memfs/f56e5073-4a92-483a-92a6-f303cf994ce5_output_0.m3u8?session=h6xFaaaCCRzBmjyUhwSxUs
 https://live-c.cf.dmcdn.net/sec2(W8uXJVPXWrtMAW55sdZZJPU8_IVxTy3h0dfV60VJeTXC1TbHTOroV1q6dIndzQE4rQstPZajtntYbDMMjnnIGnAiNmmDdu8iWuLTLR2m9GMmsb3HNRgkGyx0VzXMYDKY)/dm/3/x8mwmvs/s/live-480.m3u8
-
 
 #EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1684264119562-Frame_71.webp" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
@@ -65,6 +63,11 @@ https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 
 #Canales de telecable Latinoamerica
+
+#EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
 #Canales internacionales 
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Variedades",Unicable
