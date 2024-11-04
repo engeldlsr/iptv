@@ -284,7 +284,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
 
-#EXTINF:-1 tvg-name="MTV" tvg-name="" tvg-logo="" group-title="Otros",MTV
+#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Otros",MTV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 
 #EXTINF:-1 tvg-name="MTVHD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685386716192-Frame_35_(3).webp" group-title="Peliculas",US: MTV
