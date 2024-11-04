@@ -264,8 +264,8 @@ https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 #AZMUNDO
 
-#TVE
-
+#EXTINF:-1 tvg-name="RTVE" group-title="Internacionales",RTVE
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 #TV5 Monde
 
 #EXTINF:-1 tvg-name="Caracol" group-title="Internacionales",CARACOL
