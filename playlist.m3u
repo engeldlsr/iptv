@@ -73,6 +73,9 @@ https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latino America" tvg-logo="" group-title="Variedades",AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
+#EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" tvg-logo="" group-title="Variedades",Comedy Central en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+
 #Canales internacionales 
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Variedades",Unicable
