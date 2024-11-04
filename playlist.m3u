@@ -571,7 +571,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682
 
 ############## Documentales ######################
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685476022302-Frame_58.webp" group-title="Documentales",ID
+#EXTINF:-1 group-title="Documentales",ID
 http://190.61.42.218:9000/play/a069
 
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentales",US: DISCOVERY CHANNEL
