@@ -107,7 +107,7 @@ http://168.181.122.234:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-name="Canal Sony" group-title="Peliculas",SONY CHANNEL
 http://200.52.150.5:8000/play/a0sk/index.m3u8
 
-#EXTINF:-1 tvg-name="239 E! Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685475271240-Frame_55_(1).webp" group-title="Otros",E!
+#EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Otros",E!
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
 
 #EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Peliculas",AXN
@@ -116,14 +116,14 @@ http://181.78.106.127:9000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX
 http://45.169.163.83:8000/play/a19c
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Universal TV
+#EXTINF:-1 group-title="Peliculas",Universal TV
 http://45.228.234.210:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477165961-A&E_Mundo.webp" group-title="Peliculas",A&E
+#EXTINF:-1 group-title="Peliculas",A&E
 http://nxt.plus:8080/jesus01/jesus01/43497
 
 #UNIVERSAL TV
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477355023-Studio_Universal.webp" group-title="Peliculas",STUDIO UNIVERSAL
+#EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL
 http://190.61.42.218:9000/play/a010
 
 #EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
