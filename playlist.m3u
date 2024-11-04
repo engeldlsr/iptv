@@ -271,7 +271,7 @@ https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 #EXTINF:-1 tvg-name="Caracol" group-title="Internacionales",CARACOL
 http://181.225.191.35:14002/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-name="Antena 3 Internacional" group-title="Internacionales",Antena 3
+#EXTINF:-1 tvg-name="Antena 3" group-title="Internacionales",Antena 3
 https://tvnoov.com/fadoo/antena3hd.m3u8
 
 #RAI
