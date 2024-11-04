@@ -192,10 +192,10 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO
-http://181.78.106.127:9000/play/ca068/index.m3u8
+#http://181.78.106.127:9000/play/ca068/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO HD
-http://200.60.124.19:29000/play/a070
+#http://200.60.124.19:29000/play/a070
 
 #EXTINF:-1 group-title="Peliculas",HBO
 http://168.181.122.234:8000/play/a02o/index.m3u8
