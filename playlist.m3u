@@ -537,7 +537,7 @@ https://fl5.moveonjoy.com/NBA_15/index.m3u8
 https://fl5.moveonjoy.com/NBA_16/index.m3u8
 
 #USA SPORTS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/120px-WWE_official_logo.svg.png" group-title="Sports",US: WWE
+#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/200px-FOX_Sports_logo.svg.png" group-title="Sports",US: FOX SPORTS 1
