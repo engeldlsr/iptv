@@ -580,7 +580,7 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-name="261 Discovery life" group-title="Documentales",US: DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Science" group-title="Documentales",US: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="189 DSCIENH" group-title="Documentales",US: DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO
