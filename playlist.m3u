@@ -51,10 +51,10 @@ https://f.gmsiptv.com/ba77e358-fbf4-4869-9e47-fc57c57d48e6.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="Canal 19 (República Dominicana).do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Variedades",Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQn803a5RhjczEHnvMIxSw-ECQ4LC3-oD6yqTN2L0YxlksSKeuBKHxRZUc1vLHZ7NlaaJk4DOcwWqJEMbsBtvqBRx34A3DGjHilcWHHCM7FO_r3oTj8iPZHnnbW1cBEeaBqhkTZC-UK1sa/w700-h400-p-k-no-nu/Antena+21+en+vivo.png" group-title="Variedades",Antena 21
+#EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/284?cb=20171109210821" group-title="Variedades",Antena 21
 https://d1p8txxph783az.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="CH-37.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHC1IJK7n97NTpZJ2C939oel8zayD0n41g1iJz3yIjVRfKS0er6VMfNxDqIiNcwfBPmtO5kjd2XSd5wocZjincd9aczdDateSucnjJbKlluPam5287TYqDS7ue6kOecHUDmRsZ4aVENNlk/w700-h400-p-k-no-nu/CDN+Canal+37+en+vivo.png" group-title="Noticias",CDN CH-37
+#EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="Noticias",CDN
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 
 #EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="Noticias",Nuevo Diario
