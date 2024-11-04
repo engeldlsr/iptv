@@ -148,10 +148,10 @@ http://200.60.124.19:29000/play/a01s
 #EXTINF:-1 group-title="Peliculas",Cine Latino
 http://45.228.234.210:8000/play/a01m/index.m3u8
 
-#EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695234460142-Frame_174.webp" group-title="Peliculas",Golden EDGE
+#EXTINF:-1 tvg-name="Golden Edge" group-title="Peliculas",Golden EDGE
 http://181.78.106.127:9000/play/ca078/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542731076-Frame_79_(1).webp" group-title="Peliculas",Multipremier
+#EXTINF:-1 group-title="Peliculas",Multipremier
 http://168.181.122.234:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Paramount Network
@@ -305,7 +305,7 @@ http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-name="HBO Family East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Peliculas",US: HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-name="HBO Zone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeIXTEvMdYZCwiurD23ELpSNeaCwzYEDzKg&s" group-title="Peliculas",US:  HBO ZONE
+#EXTINF:-1 tvg-name="HBO Zone" group-title="Peliculas",HBO ZONE US
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/170px-Fox_News_Channel_logo.svg.png" group-title="LIVE TV",US: FOX EAST
