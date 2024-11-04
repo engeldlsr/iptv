@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
+#https://raw.githubusercontent.com/jangeador/tvguia/refs/heads/master/Guia/guia.xml
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jangeador/tvguia/refs/heads/master/Guia/guia.xml"
 #Canales de República Dominicana
 
 #EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Noticias",Teleuniverso TV
@@ -164,8 +167,8 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 
 #EXTINF:-1 tvg-name="Sony" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT
+#TNT > 647
+#EXTINF:-1 tvg-name="TNT" group-title="Peliculas",TNT
 http://200.52.150.5:8000/play/a0sq/index.m3u8
 
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
