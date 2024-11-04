@@ -222,13 +222,13 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 #
 ############# TNT Novelas #################
 #
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Peliculas",TNT Novelas
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Otros",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
 #EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Peliculas",Telemundo
 http://200.60.124.19:29000/play/a01g
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Peliculas",RCN Novelas
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Otros",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Otros",TLNOVELAS
@@ -316,7 +316,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Otros",MTV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 
-#EXTINF:-1 tvg-name="MTVHD" group-title="Peliculas",MTV US
+#EXTINF:-1 tvg-name="MTVHD" group-title="Otros",MTV US
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
 
