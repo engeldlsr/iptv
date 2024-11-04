@@ -165,7 +165,7 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 #EXTINF:-1 tvg-name="Sony" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="647" group-title="Peliculas", TNT
+#EXTINF:-1 tvg-chno="647" tvg-name="Canal TNT (República Dominicana).do" group-title="Peliculas", TNT
 http://200.52.150.5:8000/play/a0sq/index.m3u8
 
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
