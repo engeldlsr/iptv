@@ -138,14 +138,14 @@ http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479868352-Space.webp" group-title="Peliculas",SPACE HD
 http://45.228.234.210:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539470319-Frame_70_(1).webp" group-title="Peliculas",LIFETIME
+#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Peliculas",LIFETIME
 #http://45.228.234.210:8000/play/a05f/index.m3u8
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685541132004-Frame_75_(1).webp" group-title="Peliculas",TCM
+#EXTINF:-1 group-title="Peliculas",TCM
 http://200.60.124.19:29000/play/a01s
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694630647847-Frame_171.webp" group-title="Peliculas",Cine Latino
+#EXTINF:-1 group-title="Peliculas",Cine Latino
 http://45.228.234.210:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695234460142-Frame_174.webp" group-title="Peliculas",Golden EDGE
@@ -160,28 +160,28 @@ http://200.60.124.19:29000/play/a06v
 #EXTINF:-1 tvg-name="611 AMC Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685541226090-Ms_Chic.webp" group-title="Peliculas",AMC HD
 http://nxt.plus:8080/jesus01/jesus01/24818
 
-#EXTINF:-1 tvg-name="138 Cinemax Latino HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542203438-Frame_77_(1).webp" group-title="Peliculas",CINEMAX
+#EXTINF:-1 tvg-name="138 Cinemax Latino HD" group-title="Peliculas",CINEMAX
 http://nxt.plus:8080/jesus01/jesus01/59083
 
-#EXTINF:-1 tvg-name="Cine Sony" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CINE
+#EXTINF:-1 tvg-name="Cine Sony" group-title="Peliculas",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="647" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas", TNT
+#EXTINF:-1 tvg-name="647" group-title="Peliculas", TNT
 http://200.52.150.5:8000/play/a0sq/index.m3u8
 
-#EXTINF:-1 tvg-name="129" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685546153004-Frame_83.webp" group-title="Peliculas",CINECANAL HD
+#EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
 http://nxt.plus:8080/jesus01/jesus01/2833
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695234959608-Frame_175_(1).webp" group-title="Peliculas",PARAMOUNT CHANNEL
+#EXTINF:-1 group-title="Peliculas",PARAMOUNT CHANNEL
 http://nxt.plus:8080/jesus01/jesus01/59144
 
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series
 http://nxt.plus:8080/jesus01/jesus01/16925
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477355023-Studio_Universal.webp" group-title="Peliculas",STUDIO UNIVERSAL
+#EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL
 http://nxt.plus:8080/jesus01/jesus01/9780
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694459412478-Frame_169.webp" group-title="Peliculas",STAR CHANNEL
+#EXTINF:-1 group-title="Peliculas",STAR CHANNEL
 http://nxt.plus:8080/jesus01/jesus01/59149
 
 #EXTINF:-1 group-title="Peliculas",MX FAMILY
