@@ -104,7 +104,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal Sony" group-title="Peliculas",SONY CHANNEL
+#EXTINF:-1 tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
 http://200.52.150.5:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Otros",E!
