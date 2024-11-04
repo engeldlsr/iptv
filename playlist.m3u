@@ -574,13 +574,13 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685476022302-Frame_58.webp" group-title="Documentales",ID
 http://190.61.42.218:9000/play/a069
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695329479995-Frame_188.webp" group-title="Documentales",US: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentales",US: DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-name="261 Discovery life" group-title="Documentales",US: DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-name="189 DSCIENH" group-title="Documentales",US: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="421 Discovery Science Latinoamerica" group-title="Documentales",US: DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO
