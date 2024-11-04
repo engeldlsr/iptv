@@ -154,10 +154,10 @@ http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542731076-Frame_79_(1).webp" group-title="Peliculas",Multipremier
 http://168.181.122.234:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1701892577352-Frame_208.webp" group-title="Peliculas",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Paramount Network
 http://200.60.124.19:29000/play/a06v
 
-#EXTINF:-1 tvg-name="611 AMC Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685541226090-Ms_Chic.webp" group-title="Peliculas",AMC HD
+#EXTINF:-1 tvg-name="611 AMC Latinoamerica" group-title="Peliculas",AMC HD
 http://nxt.plus:8080/jesus01/jesus01/24818
 
 #EXTINF:-1 tvg-name="138 Cinemax Latino HD" group-title="Peliculas",CINEMAX
@@ -198,22 +198,22 @@ http://181.78.106.127:9000/play/ca068/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO HD
 http://200.60.124.19:29000/play/a070
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Peliculas",HBO CH-2
+#EXTINF:-1 group-title="Peliculas",HBO
 http://168.181.122.234:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO 2
 http://45.169.163.83:8000/play/a19b
 
-#EXTINF:-1 tvg-name="HBO Family Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Peliculas",HBO Family
+#EXTINF:-1 tvg-name="HBO Family Latinoamerica" group-title="Peliculas",HBO Family
 http://168.181.122.234:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542203438-Frame_77_(1).webp" group-title="Peliculas",CINEMAX CH-1
+#EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas",CINEMAX CH-1
 http://190.61.42.218:9000/play/a067
 
-#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685542203438-Frame_77_(1).webp" group-title="Peliculas", CINEMAX CH-2
+#EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas", CINEMAX CH-2
 http://181.78.106.127:9000/play/ca079/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694525845741-Frame_13_(1).webp" group-title="Peliculas",Cinecanal CH-1
+#EXTINF:-1 group-title="Peliculas",Cinecanal
 http://200.60.124.19:29000/play/a01l
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",Star Channel
@@ -225,7 +225,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Peliculas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
-#EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685539015974-Frame_68_(2).webp" group-title="Peliculas",Telemundo
+#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Peliculas",Telemundo
 http://200.60.124.19:29000/play/a01g
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Peliculas",RCN Novelas
@@ -250,7 +250,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-name="NBC EAST" tvg-logo="" group-title="LIVE TV",US: NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/NBC_Sports_logo_2012.png/225px-NBC_Sports_logo_2012.png" group-title="LIVE TV",US: NBC SPORT NET
+#EXTINF:-1 group-title="LIVE TV",NBC SPORT NET US
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
 #CBS WCBS
