@@ -15,7 +15,7 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
-#EXTINF:-1  tvg-name="Teleantillas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20230603165233&path-prefix=es" group-title="Variedades",TELEANTILLAS
+#EXTINF:-1  tvg-name="Canal 2 de República Dominicana (Teleantillas).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20230603165233&path-prefix=es" group-title="Variedades",TELEANTILLAS
 #https://f.gmsiptv.com/memfs/f56e5073-4a92-483a-92a6-f303cf994ce5_output_0.m3u8?session=h6xFaaaCCRzBmjyUhwSxUs
 https://live-c.cf.dmcdn.net/sec2(W8uXJVPXWrtMAW55sdZZJPU8_IVxTy3h0dfV60VJeTXC1TbHTOroV1q6dIndzQE4rQstPZajtntYbDMMjnnIGnAiNmmDdu8iWuLTLR2m9GMmsb3HNRgkGyx0VzXMYDKY)/dm/3/x8mwmvs/s/live-480.m3u8
 
@@ -28,13 +28,13 @@ https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
 #EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="Noticias",De Ultimo Minuto TV CH-06
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM2Sa7Qb8SGTiq-W4d8ri-XVU5W9wHqbapADc035QnbgZamgREiDM33utK5EMTRPrgA7InLoMByBSHF9Z8059jsMnq9cyCp-Z5w1EW1ZEPXRvA9QQJSTDNObOBUcpYt19RO5uruVM1UXc/w700-h400-p-k-no-nu/Antena+Latina+canal+7.png" group-title="Variedades",Antena7 CH-07
+#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM2Sa7Qb8SGTiq-W4d8ri-XVU5W9wHqbapADc035QnbgZamgREiDM33utK5EMTRPrgA7InLoMByBSHF9Z8059jsMnq9cyCp-Z5w1EW1ZEPXRvA9QQJSTDNObOBUcpYt19RO5uruVM1UXc/w700-h400-p-k-no-nu/Antena+Latina+canal+7.png" group-title="Variedades",Antena7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="CH-08.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes CH-08
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
-#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" tvg-logo="" group-title="Variedades",Color Vision CH-09
+#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" tvg-logo="" group-title="Variedades",Color Vision
 http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 
 #EXTINF:-1 tvg-id="CH-10.DOM" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision CH-10
