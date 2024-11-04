@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/dominican.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml;https://www.bevy.be/bevyfiles/dominican.xml"
 
 #Canales de República Dominicana
 
