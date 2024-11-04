@@ -308,7 +308,7 @@ http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBO Zone" group-title="Peliculas",HBO ZONE US
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/170px-Fox_News_Channel_logo.svg.png" group-title="LIVE TV",US: FOX EAST
+#EXTINF:-1 tvg-name="Fox News" group-title="LIVE TV",FOX EAST US
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
