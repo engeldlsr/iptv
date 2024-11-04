@@ -619,10 +619,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/27
 #EXTINF:-1 tvg-name="Glitz" tvg-logo="" group-title="Otros",Glitz
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
 
-#EXTINF:-1 tvg-name="Golf TV" tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL._h1_.png" group-title="Sports",Golf TV
+#EXTINF:-1 tvg-name="401 GOLF" tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL._h1_.png" group-title="Sports",Golf TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/293
 
-#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695327843209-Frame_191.webp" group-title="Sports",GOLF CHANNEL
+#EXTINF:-1 tvg-name="Golf Channel" group-title="Sports",GOLF CHANNEL
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 
 #EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Otros",Telemundo Int
