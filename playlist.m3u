@@ -252,7 +252,7 @@ http://181.225.191.35:14002/play/a006/index.m3u8
 
 #ARIRANG KOREA
 
-#EXTINF:-1 tvg-name="273 CGTN Español" tvg-logo="" group-title="LIVE TV",CGTN Español
+#EXTINF:-1 tvg-chno="273" tvg-name="273 CGTN Espa&#241;ol" tvg-logo="" group-title="LIVE TV",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #
