@@ -346,7 +346,7 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN HD
 http://181.78.106.127:9000/play/ca033/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325892365-Frame_179.webp" group-title="Sports",ESPN 2 HD
+#EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2 HD
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
 #EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD
