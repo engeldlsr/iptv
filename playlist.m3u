@@ -180,7 +180,7 @@ http://nxt.plus:8080/jesus01/jesus01/16925
 #EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL
 http://nxt.plus:8080/jesus01/jesus01/9780
 
-#EXTINF:-1 group-title="Peliculas",STAR CHANNEL
+#EXTINF:-1 tv-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL
 http://nxt.plus:8080/jesus01/jesus01/59149
 
 #EXTINF:-1 group-title="Peliculas",MX FAMILY
