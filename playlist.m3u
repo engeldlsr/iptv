@@ -433,7 +433,7 @@ https://fl4.moveonjoy.com/MLB_16/index.m3u8
 
 ####### NBA #########
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="NBA",NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Sports",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
