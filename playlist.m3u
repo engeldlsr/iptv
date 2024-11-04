@@ -86,9 +86,16 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="LIVE TV",MX: AZTECA UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Azteca_Internacional_logo_2023.png/270px-Azteca_Internacional_logo_2023.png" group-title="LIVE TV",MX: AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 group-title="LIVE TV",AZTECA Internacional
+https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="LIVE TV",HOLA TV PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Univision" group-title="LIVE TV",UNIVISION UHD
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 ############# PELICULAS ###########################
 
@@ -175,6 +182,14 @@ http://nxt.plus:8080/jesus01/jesus01/9780
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694459412478-Frame_169.webp" group-title="Peliculas",STAR CHANNEL
 http://nxt.plus:8080/jesus01/jesus01/59149
 
+#EXTINF:-1 group-title="Peliculas",MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",MX CLASSIC
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",HBO
 http://181.78.106.127:9000/play/ca068/index.m3u8
 
@@ -220,8 +235,13 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Televisa" group-title="Otros",TELEVISA NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 
 ##########Internacionales#########################
+
+#EXTINF:-1 group-title="LIVE TV",Sony Competencias
+https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #NBC NY WNBC
 
@@ -234,6 +254,12 @@ http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #CBS WCBS
 #EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-news-8211-cbsn.png" group-title="LIVE TV",US: CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS NEWS" group-title="LIVE TV",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
+https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 #AZMUNDO
 
@@ -537,6 +563,9 @@ http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/320px-Logo_Univision_2019.svg.png" group-title="NEWS",US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 tvg-name="EURONEWS" group-title="NEWS",EURONEWS
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=q4xy4fyCi3d8tDzz4tHi
 
 ############## Documentales ######################
 
