@@ -101,19 +101,19 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 ############# PELICULAS ###########################
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694459412478-Frame_169.webp" group-title="Peliculas",STAR CHANNEL HD
+#EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal Sony" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1694460680923-Frame_170.webp" group-title="Peliculas",SONY CHANNEL
+#EXTINF:-1 tvg-name="Canal Sony" group-title="Peliculas",SONY CHANNEL
 http://200.52.150.5:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685475271240-Frame_55_(1).webp" group-title="Otros",E!
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
 
-#EXTINF:-1 tvg-name="78 AXN LatinoAmerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685475492473-Frame_56_(2).webp" group-title="Peliculas",AXN
+#EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Peliculas",AXN
 http://181.78.106.127:9000/play/ca085/index.m3u8
 
-#EXTINF:-1 tvg-name="319 FX Latino" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685476207811-FX.webp" group-title="Peliculas",FX
+#EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX
 http://45.169.163.83:8000/play/a19c
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",Universal TV
@@ -126,13 +126,13 @@ http://nxt.plus:8080/jesus01/jesus01/43497
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477355023-Studio_Universal.webp" group-title="Peliculas",STUDIO UNIVERSAL
 http://190.61.42.218:9000/play/a010
 
-#EXTINF:-1 tvg-name="Universal Cinema East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
 http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
 http://190.61.42.218:9000/play/a008
 
-#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479323902-Frame_62_(1).webp" group-title="Peliculas",WBTV HD
+#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV HD
 http://168.181.122.234:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685479868352-Space.webp" group-title="Peliculas",SPACE HD
