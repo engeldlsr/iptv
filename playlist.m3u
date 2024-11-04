@@ -349,35 +349,35 @@ http://181.78.106.127:9000/play/ca033/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325892365-Frame_179.webp" group-title="Sports",ESPN 2 HD
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695326207927-Frame_193.webp" group-title="Sports",ESPN 3 HD
+#EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD
 http://45.228.234.210:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://futboldelbarrio.com/img/ESPN_3.png" group-title="Sports",ESPN 3 HD CH-303
+#EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD CH-303
 http://190.60.32.178:8178/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 4 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233939828-Frame_192.webp" group-title="Sports",ESPN  4 HD
+#EXTINF:-1 tvg-name="ESPN 4 Latinoamerica" group-title="Sports",ESPN  4 HD
 http://45.228.234.210:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/4c56ed09-f199-4de2-9261-ed25ad316835/scale-to-width/370" group-title="Sports",ESPN 4 HD
+#EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN 4 HD
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
 
-#EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709233706644-Frame_201.webp" group-title="Sports",ESPN 5 HD
+#EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5 HD
 http://45.228.234.210:8000/play/a03w/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1709234229570-Frame_213.webp" group-title="Sports",ESPN 6 HD
+#EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6 HD
 http://45.169.163.83:8000/play/a19j
 
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Sports",ESPN Deportes
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
-#EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="Sports",ESPN 7
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="Sports",ESPN Premium
+#EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" group-title="Sports",ESPN Premium
 http://209.45.20.210:50001/play/a02p/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Claro Sports 1" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695325347879-Frame_177.webp" group-title="Sports",Claro Sports
+#EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
