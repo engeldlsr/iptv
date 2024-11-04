@@ -322,7 +322,7 @@ http://fl2.moveonjoy.com/MTV/index.m3u8
 
 ######### SPORTS CHANNELS ############################
 
-#EXTINF:-1 tvg-name="CBS Sports" tvg-logo="" group-title="Sports",CBS Sports
+#EXTINF:-1 tvg-name="221 CBS Sports Network" group-title="Sports",CBS Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="Sports",US: YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
