@@ -11,23 +11,23 @@ https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Noticias",Telenord10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Variedades",Punta Cana TV
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1  tvg-name="Canal 2 de República Dominicana (Teleantillas).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20230603165233&path-prefix=es" group-title="Variedades",TELEANTILLAS
 #https://f.gmsiptv.com/memfs/f56e5073-4a92-483a-92a6-f303cf994ce5_output_0.m3u8?session=h6xFaaaCCRzBmjyUhwSxUs
 https://live-c.cf.dmcdn.net/sec2(W8uXJVPXWrtMAW55sdZZJPU8_IVxTy3h0dfV60VJeTXC1TbHTOroV1q6dIndzQE4rQstPZajtntYbDMMjnnIGnAiNmmDdu8iWuLTLR2m9GMmsb3HNRgkGyx0VzXMYDKY)/dm/3/x8mwmvs/s/live-480.m3u8
 
-#EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1684264119562-Frame_71.webp" group-title="Variedades",RTVD|4 CH-04
+#EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/telemicro-canal-5.jpg" tvg-name="Telemicro" group-title="Variedades",Telemicro
+#EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png/revision/latest/scale-to-width-down/1200?cb=20191125192220&path-prefix=es" tvg-name="Telemicro" group-title="Variedades",Telemicro
 https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
 
 #EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="Noticias",De Ultimo Minuto TV CH-06
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZM2Sa7Qb8SGTiq-W4d8ri-XVU5W9wHqbapADc035QnbgZamgREiDM33utK5EMTRPrgA7InLoMByBSHF9Z8059jsMnq9cyCp-Z5w1EW1ZEPXRvA9QQJSTDNObOBUcpYt19RO5uruVM1UXc/w700-h400-p-k-no-nu/Antena+Latina+canal+7.png" group-title="Variedades",Antena7
+#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="CH-08.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes CH-08
@@ -45,10 +45,10 @@ https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="Canal Telecentro (13 de República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Telecentro_RD_1999.png/revision/latest?cb=20170520155140" group-title="Variedades",Telecentro
 https://f.gmsiptv.com/memfs/0fbfb160-b15d-4013-85ef-59404ed433d6.m3u8
 
-#EXTINF:-1 tvg-id="Canal 15 (Digital Quince Telemicro) (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqYxej0mlCgKMbZAZJrecTxYBYIfI4ZFg3oiJbhm1cWmmjzpjyJJOyRQPMc9utLUrmnTl-RC-xQIuWnlwDVDZr3P2uKoq7pfc2f9ZmtLyY_7ttszTXeIjzrCJhbrw_nhNKjYq3SNPpO9Br/w700-h400-p-k-no-nu/Digital+15+Dominicano+en+vivo.png" group-title="Variedades",Digital 15
+#EXTINF:-1 tvg-id="Canal 15 (Digital Quince Telemicro) (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png" group-title="Variedades",Digital 15
 https://f.gmsiptv.com/ba77e358-fbf4-4869-9e47-fc57c57d48e6.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzmqDCHoI639ielVHtUonwBSe9znEySNzLZ11KoBeIv5mqepoVj5piLyxZsQwEcV18Oa8F8sBMZQ_zSz-7aPISf9MfZahE5FblcKb7Ti11pwNlsWK2VteU2dm8whBWhpCPF1YzJknivLtI/w700-h400-p-k-no-nu/Canal+19+Dominicano+en+vivo.png" group-title="Variedades",Canal 19
+#EXTINF:-1 tvg-chno="19" tvg-id="Canal 19 (República Dominicana).do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Variedades",Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQn803a5RhjczEHnvMIxSw-ECQ4LC3-oD6yqTN2L0YxlksSKeuBKHxRZUc1vLHZ7NlaaJk4DOcwWqJEMbsBtvqBRx34A3DGjHilcWHHCM7FO_r3oTj8iPZHnnbW1cBEeaBqhkTZC-UK1sa/w700-h400-p-k-no-nu/Antena+21+en+vivo.png" group-title="Variedades",Antena 21
