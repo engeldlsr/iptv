@@ -327,7 +327,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="Sports",US: YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="CBS Sports Network USA" tvg-logo="" group-title="Sports",CBS Sports Network USA
+#EXTINF:-1 tvg-name="221 CBS Sports Network HD" tvg-logo="" group-title="Sports",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX Sports" tvg-logo="" group-title="Sports",FOXSports
