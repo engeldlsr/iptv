@@ -452,88 +452,37 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 ####### NBA #########
-
 #EXTINF:-1 group-title="NBA",US: ANB 01
 https://fl5.moveonjoy.com/NBA_1/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 02
 https://fl5.moveonjoy.com/NBA_2/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 03
 https://fl5.moveonjoy.com/NBA_3/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 04
 https://fl5.moveonjoy.com/NBA_4/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 05
 https://fl5.moveonjoy.com/NBA_5/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 06
 https://fl5.moveonjoy.com/NBA_6/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 07
 https://fl5.moveonjoy.com/NBA_7/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 08
 https://fl5.moveonjoy.com/NBA_8/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 09
 https://fl5.moveonjoy.com/NBA_9/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 10
 https://fl5.moveonjoy.com/NBA_10/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 11
 https://fl5.moveonjoy.com/NBA_11/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 12
 https://fl5.moveonjoy.com/NBA_12/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 13
 https://fl5.moveonjoy.com/NBA_13/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 14
 https://fl5.moveonjoy.com/NBA_14/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 15
 https://fl5.moveonjoy.com/NBA_15/index.m3u8
-
 #EXTINF:-1 group-title="NBA",US: ANB 16
-https://fl5.moveonjoy.com/NBA_16/index.m3u8
-
-############### NBA OPT 2 #####################
-
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 01
-https://fl5.moveonjoy.com/NBA_1/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 02
-https://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 03
-https://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 04
-https://fl5.moveonjoy.com/NBA_4/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 05
-https://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 06
-https://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 07
-https://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 08
-https://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 09
-https://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 10
-https://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 11
-https://fl5.moveonjoy.com/NBA_11/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 12
-https://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 13
-https://fl5.moveonjoy.com/NBA_13/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 14
-https://fl5.moveonjoy.com/NBA_14/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 15
-https://fl5.moveonjoy.com/NBA_15/index.m3u8
-#EXTINF:-1 group-title="Bics DEPORTES ANB", US: ANB 16
 https://fl5.moveonjoy.com/NBA_16/index.m3u8
 
 #USA SPORTS
@@ -545,8 +494,7 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 
 ############ CARTOON ###########################
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1686836449070-cartoon_network.webp" group-title="Cartoon",US: CARTOON NETWORK
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",US: CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon",US: NICK JR
@@ -562,8 +510,7 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
 ############### NEWS #################
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/320px-Logo_Univision_2019.svg.png" group-title="NEWS",US: UNIVISION
+#EXTINF:-1 tvg-name="Univision East" group-title="NEWS",US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 
 #EXTINF:-1 tvg-name="EURONEWS" group-title="NEWS",EURONEWS
