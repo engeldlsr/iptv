@@ -39,7 +39,8 @@ http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal Telesistema 11 (República Dominicana).do" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" tvg-name="Telesistema" group-title="Variedades",Telesistema
-https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
+https://live-b.cf.dmcdn.net/sec2(7a_-3zlO5xYbjpmtP-5IoFi4MUOwaJTCUNdYhq14ESva9kSvqwzIicpsbOAmJDMCvcEJYco7aOnwnohVDlKOVpipba0ecuXegoXfcXmqHLo-gHcXIlLYLESIofOTp2J8)/dm/3/x80ac48/d/live-720.m3u8
+#https://f.gmsiptv.com/memfs/4b111efc-5803-4f08-9382-ee4e3a617fc3.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Canal Telecentro (13 de República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Telecentro_RD_1999.png/revision/latest?cb=20170520155140" group-title="Variedades",Telecentro
 https://f.gmsiptv.com/memfs/0fbfb160-b15d-4013-85ef-59404ed433d6.m3u8
