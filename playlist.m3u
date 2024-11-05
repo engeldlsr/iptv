@@ -63,6 +63,9 @@ https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 #Canales de telecable Latinoamerica
 
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
