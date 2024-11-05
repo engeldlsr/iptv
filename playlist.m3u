@@ -80,6 +80,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 
 #Canales internacionales 
 
+#EXTINF:-1 tvg-name="RT en Español" group-title="Variedades",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Variedades",Unicable
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 
