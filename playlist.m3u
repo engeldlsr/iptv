@@ -15,7 +15,7 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1  tvg-name="Canal 2 de República Dominicana (Teleantillas).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20230603165233&path-prefix=es" group-title="Variedades",TELEANTILLAS
-https://live-c.cf.dmcdn.net/sec2(W8uXJVPXWrtMAW55sdZZJPU8_IVxTy3h0dfV60VJeTXC1TbHTOroV1q6dIndzQE4rQstPZajtntYbDMMjnnIGnAiNmmDdu8iWuLTLR2m9GMmsb3HNRgkGyx0VzXMYDKY)/dm/3/x8mwmvs/s/live-480.m3u8
+https://live-c.cf.dmcdn.net/sec2(ypDZ3Gk1VFAuCrinRzN4VFApOQ-HlOQQsEwbcSRlaqnNVZMpHbtsMcWmigRwrhrcudbyk9DAXLjwMCKxzr1FwOLJwOwJuoRsGSSdUuLBKFs60AQgJrK6E-SxVm-LorUA)/dm/3/x8mwmvs/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
