@@ -94,6 +94,12 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 #EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-logo="" group-title="NEWS",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV Plus" tvg-logo="" group-title="NEWS",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/260px-Azteca_Uno_%282020%29.svg.png" group-title="LIVE TV",MX: AZTECA UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Azteca_Internacional_logo_2023.png/270px-Azteca_Internacional_logo_2023.png" group-title="LIVE TV",MX: AZTECA INTERNACIONAL
@@ -324,10 +330,19 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
 
-#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Otros",MTV
+#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Music",MTV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 
-#EXTINF:-1 tvg-name="MTVHD" group-title="Otros",MTV US
+#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Music", MTV 2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV Live" tvg-name="" tvg-logo="" group-title="Music", MTV LIVE
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV U" tvg-name="" tvg-logo="" group-title="Music", MTV U
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
+
+#EXTINF:-1 tvg-name="MTVHD" group-title="Music",MTV US
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
 
@@ -600,3 +615,23 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
 #EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="LIVE TV",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+################## OTROS ###################
+
+#EXTINF:-1 tvg-name="Showtime East" tvg-logo="" group-title="Entretenimiento",Showtime East
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo East" tvg-logo="" group-title="NEWS",Telemundo East
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC News 1
+abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC News 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Golden
+http://191.52.214.5:8000/play/a03b/index.m3u8
+
+
+
+
