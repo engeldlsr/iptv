@@ -101,13 +101,25 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="LIVE TV",HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Univision" group-title="LIVE TV",UNIVISION UHD
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
-
 ############# PELICULAS ###########################
 
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tv-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL 2
+http://nxt.plus:8080/jesus01/jesus01/59149
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",Star Channel
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
 http://200.52.150.5:8000/play/a0sk/index.m3u8
@@ -186,9 +198,6 @@ http://nxt.plus:8080/jesus01/jesus01/16925
 #EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL
 http://nxt.plus:8080/jesus01/jesus01/9780
 
-#EXTINF:-1 tv-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL
-http://nxt.plus:8080/jesus01/jesus01/59149
-
 #EXTINF:-1 group-title="Peliculas",MX FAMILY
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",MX CLASSIC
@@ -220,9 +229,6 @@ http://168.181.122.234:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Cinecanal
 http://200.60.124.19:29000/play/a01l
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",Star Channel
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 
 #
 ############# TNT Novelas #################
