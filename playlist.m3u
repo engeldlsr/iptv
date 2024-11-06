@@ -1,14 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://bit.ly/dom-epg,https://www.bevy.be/bevyfiles/mexico.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml"
 #Canales de República Dominicana
 
-#EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Noticias",Teleuniverso TV
+#EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #Principales canales dominicanos
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="Noticias",En Television
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="NEWS",En Television
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 
-#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Noticias",Telenord10
+#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
@@ -20,7 +21,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238
 #EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png/revision/latest/scale-to-width-down/1200?cb=20191125192220&path-prefix=es" tvg-name="Telemicro" group-title="Variedades",Telemicro
 https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
 
-#EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="Noticias",De Ultimo Minuto TV CH-06
+#EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="NEWS",De Ultimo Minuto TV CH-06
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 
 #EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
@@ -47,7 +48,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/284?cb=20171109210821" group-title="Variedades",Antena 21
 https://d1p8txxph783az.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="Noticias",CDN
+#EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="NEWS",CDN
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 
 #EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="Noticias",Nuevo Diario
