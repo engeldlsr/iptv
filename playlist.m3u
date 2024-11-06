@@ -14,9 +14,6 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
-#EXTINF:-1  tvg-name="Canal 2 de República Dominicana (Teleantillas).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Teleantillas_2012.png/revision/latest/scale-to-width-down/250?cb=20230603165233&path-prefix=es" group-title="Variedades",TELEANTILLAS
-https://www.dailymotion.com/video/x8mwmvs
-
 #EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
 
@@ -37,9 +34,6 @@ http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Microvision 10 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-
-#EXTINF:-1 tvg-chno="11" tvg-id="Canal Telesistema 11 (República Dominicana).do" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" tvg-name="Telesistema" group-title="Variedades",Telesistema
-https://live-b.cf.dmcdn.net/sec2(7a_-3zlO5xYbjpmtP-5IoFi4MUOwaJTCUNdYhq14ESva9kSvqwzIicpsbOAmJDMCvcEJYco7aOnwnohVDlKOVpipba0ecuXegoXfcXmqHLo-gHcXIlLYLESIofOTp2J8)/dm/3/x80ac48/d/live-720.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="Canal Telecentro (13 de República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Telecentro_RD_1999.png/revision/latest?cb=20170520155140" group-title="Variedades",Telecentro
 https://f.gmsiptv.com/memfs/0fbfb160-b15d-4013-85ef-59404ed433d6.m3u8
@@ -467,16 +461,12 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TSN2_HD.svg/revision/latest/scale-to-width-down/250?cb=20220218161256" group-title="Sports",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="Sports",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png" group-title="Sports",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png" group-title="Sports",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
