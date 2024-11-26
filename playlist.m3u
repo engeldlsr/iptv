@@ -537,7 +537,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=q4xy4fyCi3d8tDzz4tHi
 
 ############## Documentales ######################
-#EXTINF:-1 group-title="Peliculas",ID
+#EXTINF:-1 group-title="Documentales",ID
 http://181.78.105.146:8800/play/a06p
 
 #EXTINF:-1 group-title="Peliculas",AMC 2
