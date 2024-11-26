@@ -632,5 +632,5 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-#EXTINF:-1 tvg-name="333" group-title="Peliculas",Golden
+#EXTINF:-1 tvg-name="Golden Plus" group-title="Peliculas",Golden Plus
 http://191.52.214.5:8000/play/a03b/index.m3u8
