@@ -421,10 +421,10 @@ https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tu
 #EXTINF:-1 tvg-name=TVC Deportes"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Sports",TVC Deportes
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sports",TyC Sports
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="" group-title="Sports",TyC Sports
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Sports",TVC Deportes
+#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="" group-title="Sports",TVC Deportes
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 
 ####### MLB #########
@@ -614,7 +614,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
 #EXTINF:-1 tvg-name="Tru TV Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Otros",Tru TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="LIVE TV",TVC
+#EXTINF:-1 tvg-name="672 TVCD" tvg-logo="" group-title="LIVE TV",TVC
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
 #EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="LIVE TV",CNBC
@@ -628,10 +628,9 @@ https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo East" tvg-logo="" group-title="NEWS",Telemundo East
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC News 1
-abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS",ABC News 2
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 group-title="NEWS",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Golden
+
+#EXTINF:-1 tvg-name="333" group-title="Peliculas",Golden
 http://191.52.214.5:8000/play/a03b/index.m3u8
