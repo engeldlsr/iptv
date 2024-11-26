@@ -558,7 +558,7 @@ http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Documentales",US: NAT GEO WILD
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 group-title="Documentales",History
+#EXTINF:-1 tvg-name="History LatinoAmerica" group-title="Documentales",History
 http://181.78.105.146:8800/play/a04h
 
 #EXTINF:-1 tvg-chno="413" tvg-name="413 H2 Latinoamerica" tvg-logo="" group-title="Documentales",History 2
