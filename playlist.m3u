@@ -100,7 +100,7 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 ############# PELICULAS ###########################
 
-#EXTINF:-1 tvg-name="529 Star Latinoamerica" group-title="Peliculas",STAR CHANNEL
+#EXTINF:-1 tvg-name="529" group-title="Peliculas",STAR CHANNEL
 http://168.181.122.234:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
