@@ -112,19 +112,8 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL HD
 http://168.181.122.234:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tv-name="829 Star LatinoAmerica HD" group-title="Peliculas",STAR CHANNEL 2
-http://nxt.plus:8080/jesus01/jesus01/59149
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Peliculas",Star Channel
+#EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
