@@ -57,6 +57,8 @@ https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 #Canales de telecable Latinoamerica
 
 #Peliculas
+#EXTINF:-1,A&E HD
+http://181.177.255.253:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN Latino America" tvg-logo="" group-title="Variedades",AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
