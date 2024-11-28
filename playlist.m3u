@@ -377,6 +377,11 @@ http://45.169.163.83:8000/play/a19j
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt
+http://edge.espn.cdn.abacast.net/espn-deportes-48
+
+
+
 #EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
 
