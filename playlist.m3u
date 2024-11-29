@@ -182,6 +182,8 @@ http://200.60.124.19:29000/play/a06v
 
 #EXTINF:-1 tvg-name="138 Cinemax Latino HD" group-title="Peliculas",CINEMAX
 http://nxt.plus:8080/jesus01/jesus01/59083
+#EXTINF:-1 tvg-name="138 Cinemax LatinoAmerica" group-title="Peliculas",CINEMAX Alt
+http://181.78.106.127:9000/play/ca079/index.m3u8
 
 #EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT
 http://200.52.150.5:8000/play/a0sq/index.m3u8
@@ -194,8 +196,8 @@ http://nxt.plus:8080/jesus01/jesus01/2833
 http://45.175.139.194:8000/play/36
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
 http://181.78.106.127:9000/play/ca073/index.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Paramount Network Alt
-http://45.175.139.194:8000/play/38
+#EXTINF:-1 tvg-name="Paramount Network LatinoAmerica" group-title="Peliculas",Paramount Network Alt
+http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",TCM
 http://45.175.139.194:8000/play/39
 #EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Golden Alt
@@ -623,6 +625,8 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=q4xy4fyCi3d8tDzz4tHi
 
 ############## Documentales ######################
+#EXTINF:-1 tvg-name="Universal Crime" group-title="Documentales",Universal Crime
+http://181.78.106.127:9000/play/ca083/index.m3u8
 #EXTINF:-1 group-title="Documentales",ID
 http://181.78.105.146:8800/play/a06p
 #EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt
@@ -630,6 +634,8 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",AMC
 http://190.61.42.218:9000/play/a069
+#EXTINF:-1 tvg-name="AMC LatinoAmerica" group-title="Peliculas",AMC Alt
+http://181.78.106.127:9000/play/ca080/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentales",US: DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
