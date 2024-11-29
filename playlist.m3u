@@ -190,6 +190,31 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
 http://nxt.plus:8080/jesus01/jesus01/2833
+#EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL Alt
+http://45.175.139.194:8000/play/36
+#EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
+http://45.175.139.194:8000/play/37
+#EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Paramount Network Alt
+http://45.175.139.194:8000/play/38
+#EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",TCM
+http://45.175.139.194:8000/play/39
+#EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Golden Alt
+http://45.175.139.194:8000/play/40
+#EXTINF:-1 tvg-name="Star Channel" group-title="Peliculas",STAR CHANNEL Alt
+http://45.175.139.194:8000/play/42
+#EXTINF:-1 tvg-name="FX Latino America" group-title="Peliculas",FX Alt 2
+http://45.175.139.194:8000/play/43
+
+#EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
+http://45.175.139.194:8000/play/45
+#EXTINF:-1 tvg-name="Discovery LatinoAmerica" group-title="Documentales",Discovery Alt 2
+http://45.175.139.194:8000/play/46
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet
+http://45.175.139.194:8000/play/47
+#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
+http://45.175.139.194:8000/play/50
+
+
 
 #EXTINF:-1 group-title="Peliculas",PARAMOUNT CHANNEL
 http://nxt.plus:8080/jesus01/jesus01/59144
@@ -654,3 +679,10 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-name="EDGE" group-title="Peliculas",EDGE
+http://45.175.139.194:8000/play/29
+#EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Familiar
+http://45.175.139.194:8000/play/33
+#EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Premium
+http://45.175.139.194:8000/play/34
