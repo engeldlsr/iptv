@@ -459,9 +459,10 @@ http://45.169.163.83:8000/play/a19j
 
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
 http://supersonictv.live:8080/329474/903964/22222
-
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt
 http://edge.espn.cdn.abacast.net/espn-deportes-48
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt 2
+https://sdmx.vip:443/belpley/sYqKZQrTZa/2218544
 
 
 
