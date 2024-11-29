@@ -289,7 +289,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
-#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",RCN Novelas Alt
+#EXTINF:-1 tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
 http://181.78.106.127:9000/play/ca014/index.m3u8
 #EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TLN TLNovelas
 http://181.78.106.127:9000/play/ca016/index.m3u8
@@ -709,3 +709,16 @@ http://181.78.106.127:9000/play/ca023/index.m3u8
 
 #EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1 tvg-name="DAZN" group-title="Sports",DAZN
+http://181.78.106.127:9000/play/ca027/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports 2
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports La Liga
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports Alt
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2 Alt
+http://181.78.106.127:9000/play/ca032/index.m3u8
+
