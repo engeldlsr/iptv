@@ -207,8 +207,8 @@ http://45.175.139.194:8000/play/43
 
 #EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
 http://45.175.139.194:8000/play/45
-#EXTINF:-1 tvg-name="Discovery LatinoAmerica" group-title="Documentales",Discovery Alt 2
-http://45.175.139.194:8000/play/46
+#EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
+http://181.78.106.127:9000/play/ca057/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet
 http://45.175.139.194:8000/play/47
 #EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
