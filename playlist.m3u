@@ -577,7 +577,7 @@ http://181.78.105.146:2000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-chno="413" tvg-name="413 H2 Latinoamerica" tvg-logo="" group-title="Documentales",History 2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/289
-#EXTINF:-1 tvg-chno="413" tvg-name="413 H2 Latinoamerica" tvg-logo="" group-title="Documentales",History 2 Alt
+#EXTINF:-1 tvg-chno="413" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2 Alt
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-name="History Channel LatinoAmerica" tvg-logo="" group-title="Documentales",History Channel
