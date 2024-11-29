@@ -275,6 +275,8 @@ http://181.78.106.127:9000/play/ca070/index.m3u8
 http://168.181.122.234:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-name="HBO Family LatinoAmerica" group-title="Peliculas",HBO Family Alt
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/119
+#EXTINF:-1 tvg-name="HBO PoP" group-title="Peliculas",HBO PoP
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
 
 #EXTINF:-1 tvg-name="HBO West" tvg-logo="" group-title="Peliculas",US: HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
