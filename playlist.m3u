@@ -99,7 +99,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 #EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="LIVE TV",HOLA TV PLAY
+#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 ############# PELICULAS ###########################
@@ -290,22 +290,22 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 
 ##########Internacionales#########################
 
-#EXTINF:-1 group-title="LIVE TV",Sony Competencias
+#EXTINF:-1 group-title="Live TV",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #NBC NY WNBC
 
-#EXTINF:-1 tvg-name="NBC EAST" tvg-logo="" group-title="LIVE TV",US: NBC EAST
+#EXTINF:-1 tvg-name="NBC EAST" tvg-logo="" group-title="Live TV",US: NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title="LIVE TV",NBC SPORT NET US
+#EXTINF:-1 group-title="Live TV",NBC SPORT NET US
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
 #CBS WCBS
-#EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-news-8211-cbsn.png" group-title="LIVE TV",US: CBS EAST
+#EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-news-8211-cbsn.png" group-title="Live TV",US: CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 tvg-name="CBS NEWS" group-title="LIVE TV",CBS NEWS
+#EXTINF:-1 tvg-name="CBS NEWS" group-title="Live TV",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
@@ -329,7 +329,7 @@ https://tvnoov.com/fadoo/antena3hd.m3u8
 
 #ARIRANG KOREA
 
-#EXTINF:-1 tvg-chno="273" tvg-name="CGTN Español" tvg-logo="" group-title="LIVE TV",CGTN Español
+#EXTINF:-1 tvg-chno="273" tvg-name="CGTN Español" tvg-logo="" group-title="Live TV",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #
@@ -357,7 +357,7 @@ http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBO Zone" group-title="Peliculas",HBO ZONE US
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-name="Fox News" group-title="LIVE TV",FOX EAST US
+#EXTINF:-1 tvg-name="Fox News" group-title="Live TV",FOX EAST US
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
@@ -662,10 +662,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
 #EXTINF:-1 tvg-name="Tru TV Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Otros",Tru TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
 
-#EXTINF:-1 tvg-name="672 TVCD" tvg-logo="" group-title="LIVE TV",TVC
+#EXTINF:-1 tvg-name="672 TVCD" tvg-logo="" group-title="Live TV",TVC
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
-#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="LIVE TV",CNBC
+#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 ################## OTROS ###################
