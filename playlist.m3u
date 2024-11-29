@@ -276,17 +276,25 @@ http://200.60.124.19:29000/play/a01g
 #EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo Int Alt
 http://181.78.106.127:9000/play/ca009/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Otros",RCN Novelas
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Otros",TLNOVELAS
+#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
+#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS Alt
+http://181.78.106.127:9000/play/ca013/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Otros",SONY NOVELAS
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Novelas",SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Televisa" group-title="Otros",TELEVISA NOVELAS
+#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
+#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",RCN Novelas Alt
+http://181.78.106.127:9000/play/ca014/index.m3u8
+#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TLN TLNovelas
+http://181.78.106.127:9000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",Pasiones
+http://181.78.106.127:9000/play/ca017/index.m3u8
 
 ##########Internacionales#########################
 
@@ -685,6 +693,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://191.52.214.5:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNN en Español
+http://181.78.106.127:9000/play/ca019/index.m3u8
 
 #EXTINF:-1 tvg-name="EDGE" group-title="Peliculas",EDGE
 http://45.175.139.194:8000/play/29
@@ -692,3 +702,10 @@ http://45.175.139.194:8000/play/29
 http://45.175.139.194:8000/play/33
 #EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Premium
 http://45.175.139.194:8000/play/34
+#EXTINF:-1 tvg-name="Guate Vision" group-title="Entretenimiento",Guate Vision
+http://181.78.106.127:9000/play/ca021/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="Anime",7
+http://181.78.106.127:9000/play/ca023/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
