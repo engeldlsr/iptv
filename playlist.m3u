@@ -213,6 +213,10 @@ http://45.175.139.194:8000/play/46
 http://45.175.139.194:8000/play/47
 #EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
 http://45.175.139.194:8000/play/50
+#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature
+http://45.175.139.194:8000/play/51
+#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",NATGEO Alt 
+http://45.175.139.194:8000/play/52
 
 
 
