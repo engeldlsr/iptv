@@ -59,9 +59,16 @@ https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 http://181.177.255.253:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="" tvg-title="Entretenimiento",A&E Alt
 http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="A&E LatinoAmerica" tvg-title="Entretenimiento",A&E Alt 2
+http://181.78.106.127:9000/play/ca086/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN HD
 https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-name="AXN LatinoAmerica" group-title="Entretenimiento",AXN Alt
+http://181.78.106.127:9000/play/ca085/index.m3u8
+
+#EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
 
 
 
@@ -98,6 +105,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 
 #EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
+http://181.78.106.127:9000/play/ca088/index.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
@@ -207,8 +217,7 @@ http://45.175.139.194:8000/play/42
 #EXTINF:-1 tvg-name="FX Latino America" group-title="Peliculas",FX Alt 2
 http://45.175.139.194:8000/play/43
 
-#EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
-http://181.78.106.127:9000/play/ca059/index.m3u8
+
 #EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
 http://181.78.106.127:9000/play/ca057/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet
@@ -627,10 +636,13 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682
 ############## Documentales ######################
 #EXTINF:-1 tvg-name="Universal Crime" group-title="Documentales",Universal Crime
 http://181.78.106.127:9000/play/ca083/index.m3u8
+
 #EXTINF:-1 group-title="Documentales",ID
 http://181.78.105.146:8800/play/a06p
 #EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt
 http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
+http://181.78.106.127:9000/play/ca059/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas",AMC
 http://190.61.42.218:9000/play/a069
