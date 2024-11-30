@@ -627,6 +627,11 @@ http://181.78.106.127:9000/play/ca032/index.m3u8
 
 
 ######## English Channels ########
+#EXTINF:-1 tvg-name="The Weather Channel" group-title="Peliculas",The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Peliculas",TRAVEL CHANNEL
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 ############## MOVIES CHANNELS ###################
 #EXTINF:-1 tvg-name="FX East" tvg-logo="" group-title="Peliculas",FX : US
@@ -689,6 +694,9 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
