@@ -599,7 +599,7 @@ http://181.78.105.146:2000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNN en Español
 http://181.78.106.127:9000/play/ca019/index.m3u8
 
-#EXTINF:-1 tvg-name="Golden Edge" group-title="Peliculas",EDGE
+#EXTINF:-1 tvg-name="GOLDEDG" group-title="Peliculas",EDGE
 http://45.175.139.194:8000/play/29
 #EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Familiar
 http://45.175.139.194:8000/play/33
@@ -636,7 +636,7 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 tvg-name="Starz West" tvg-logo="" group-title="Peliculas",STARZ : US
+#EXTINF:-1 tvg-name="Starz East" tvg-logo="" group-title="Peliculas",STARZ : US
 http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-name="Starz Comedy East" tvg-logo="" group-title="Peliculas",STARZ Comedy : US
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
