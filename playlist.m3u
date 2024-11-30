@@ -380,7 +380,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
-#EXTINF:-1 tvg-name="Telehit" tvg-name="" tvg-logo="" group-title="Music",TELEHIT Musica
+#EXTINF:-1 tvg-name="Telehit Música Plus" tvg-name="" tvg-logo="" group-title="Music",TELEHIT Musica
 http://181.78.106.127:9000/play/ca065/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
