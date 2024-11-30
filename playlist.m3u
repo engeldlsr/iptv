@@ -574,8 +574,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 #EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Otros",Telemundo Int
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Cartoon",Tooncast
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
 
 #EXTINF:-1 tvg-name="Tru TV Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Otros",Tru TV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
@@ -688,6 +686,8 @@ http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="Disney JR" group-title="Cartoon",DISNEY JR : US
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-name="Tooncast" group-title="Cartoon",Tooncast
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
 
 ########## SPORTS CHANNELS ##################
 
