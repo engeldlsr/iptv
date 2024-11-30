@@ -223,6 +223,8 @@ http://181.78.106.127:9000/play/ca056/index.m3u8
 http://45.175.139.194:8000/play/50
 #EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature
 http://45.175.139.194:8000/play/51
+#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature Alt
+http://181.78.8.90:16123/play/ch50
 #EXTINF:-1 tvg-name="Nat Geo LatinoAmerica" group-title="Documentales",NATGEO Alt 
 http://45.175.139.194:8000/play/52
 
