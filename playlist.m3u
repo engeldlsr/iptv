@@ -497,7 +497,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 ############ CARTOON ###########################
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",CARTOON NETWORK
 http://181.78.106.127:9000/play/ca051/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" group-title="Cartoon",NICKELODEON
+#EXTINF:-1 tvg-name="Nickelodeon Latinoamerica" group-title="Cartoon",NICKELODEON
 http://181.78.106.127:9000/play/ca052/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Channel
 http://181.78.106.127:9000/play/ca053/index.m3u8
