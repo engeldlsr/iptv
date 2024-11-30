@@ -642,6 +642,14 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-name="FXX" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
+#EXTINF:-1 tvg-name="STARZ" tvg-logo="" group-title="Peliculas",STARZ : US
+http://fl5.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy East" tvg-logo="" group-title="Peliculas",STARZ : US
+http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-name="SYFY WEST" tvg-logo="" group-title="Peliculas",SYFY : US
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+
 
 #EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
