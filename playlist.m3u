@@ -507,16 +507,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="Sports",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TSN2_HD.svg/revision/latest/scale-to-width-down/250?cb=20220218161256" group-title="Sports",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="Sports",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork4.png" group-title="Sports",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_TheSportsNetwork5.png" group-title="Sports",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 
 
 
@@ -654,6 +645,15 @@ http://181.78.106.127:9000/play/ca032/index.m3u8
 
 ######## English Channels ########
 
+############## MOVIES CHANNELS ###################
+#EXTINF:-1 tvg-name="FX" tvg-logo="" group-title="Peliculas",FX : US
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-name="FXM" tvg-logo="" group-title="Peliculas",FXM : US
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-name="FXX" tvg-logo="" group-title="Peliculas",FXX : US
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
+
 #EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
@@ -694,6 +694,19 @@ http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" group-title="Sports",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4" group-title="Sports",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 ####### NBA LIST #########
 #EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
@@ -768,3 +781,8 @@ https://fl4.moveonjoy.com/MLB_16/index.m3u8
 ####### NHL LIST #########
 
 ####### NFL LIST #########
+
+
+########### MUSIC CHANNELS #########
+#EXTINF:-1 tvg-name="FOX SOUL" group-title="Sports",FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
