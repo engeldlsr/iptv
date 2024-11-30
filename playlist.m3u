@@ -389,9 +389,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 #EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
 http://181.78.106.127:9000/play/ca067/index.m3u8
 
-#EXTINF:-1 tvg-name="MTVHD" group-title="Music",MTV US
-http://fl2.moveonjoy.com/MTV/index.m3u8
-
 ######### SPORTS CHANNELS ############################
 
 #EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
