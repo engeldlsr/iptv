@@ -114,16 +114,13 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 ############# PELICULAS ###########################
 
-#EXTINF:-1 tvg-name="529" group-title="Peliculas",STAR CHANNEL
+#EXTINF:-1 tvg-name="Star Latino America" group-title="Peliculas",STAR CHANNEL
 http://168.181.122.234:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/15
 
-
-#EXTINF:-1 tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
-http://200.52.150.5:8000/play/a0sk/index.m3u8
-#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL Alt
+#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
 http://181.78.105.146:2000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
@@ -329,7 +326,7 @@ http://181.78.106.127:9000/play/ca017/index.m3u8
 
 ##########Internacionales#########################
 
-#EXTINF:-1 group-title="Live TV",Sony Competencias
+#EXTINF:-1 tvg-name="Sony Competencias" group-title="Entretenimiento",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #NBC NY WNBC
@@ -522,89 +519,6 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 
-####### MLB #########
-
-#EXTINF:-1 group-title="MLB", US: BLM 01
-https://fl4.moveonjoy.com/MLB_1/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 02
-https://fl4.moveonjoy.com/MLB_2/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 03
-https://fl4.moveonjoy.com/MLB_3/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 04
-https://fl4.moveonjoy.com/MLB_4/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 05
-https://fl4.moveonjoy.com/MLB_5/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 06
-https://fl4.moveonjoy.com/MLB_6/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 07
-https://fl4.moveonjoy.com/MLB_7/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 08
-https://fl4.moveonjoy.com/MLB_8/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 09
-https://fl4.moveonjoy.com/MLB_9/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 10
-https://fl4.moveonjoy.com/MLB_10/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 11
-https://fl4.moveonjoy.com/MLB_11/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 12
-https://fl4.moveonjoy.com/MLB_12/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 13
-https://fl4.moveonjoy.com/MLB_13/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 14
-https://fl4.moveonjoy.com/MLB_14/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 15
-https://fl4.moveonjoy.com/MLB_15/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 16
-https://fl4.moveonjoy.com/MLB_16/index.m3u8
-
-
-####### NBA #########
-
-#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-
-
-####### NBA #########
-#EXTINF:-1 group-title="NBA",US: ANB 01
-https://fl5.moveonjoy.com/NBA_1/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 02
-https://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 03
-https://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 04
-https://fl5.moveonjoy.com/NBA_4/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 05
-https://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 06
-https://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 07
-https://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 08
-https://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 09
-https://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 10
-https://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 11
-https://fl5.moveonjoy.com/NBA_11/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 12
-https://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 13
-https://fl5.moveonjoy.com/NBA_13/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 14
-https://fl5.moveonjoy.com/NBA_14/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 15
-https://fl5.moveonjoy.com/NBA_15/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 16
-https://fl5.moveonjoy.com/NBA_16/index.m3u8
-
-#USA SPORTS
-#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
-http://fl2.moveonjoy.com/WWE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/200px-FOX_Sports_logo.svg.png" group-title="Sports",US: FOX SPORTS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
 
 ############ CARTOON ###########################
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",CARTOON NETWORK
@@ -613,22 +527,6 @@ http://181.78.106.127:9000/play/ca051/index.m3u8
 http://181.78.106.127:9000/play/ca052/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Channel
 http://181.78.106.127:9000/play/ca053/index.m3u8
-
-
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",US: CARTOON NETWORK
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Cartoon",US: NICK JR
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-
-#EXTINF:-1 group-title="Cartoon",US: NICKELODEON
-http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-
-#EXTINF:-1 group-title="Cartoon",US: DISNEY XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/200px-Disney_Jr._2024.svg.png" group-title="Cartoon",US: DISNEY JR
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 
 ############### NEWS #################
 #EXTINF:-1 tvg-name="Univision East" group-title="NEWS",US: UNIVISION
@@ -653,22 +551,8 @@ http://190.61.42.218:9000/play/a069
 #EXTINF:-1 tvg-name="AMC LatinoAmerica" group-title="Peliculas",AMC Alt
 http://181.78.106.127:9000/play/ca080/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentales",US: DISCOVERY CHANNEL
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-
-#EXTINF:-1 tvg-name="261 Discovery life" group-title="Documentales",US: DISCOVERY LIFE
-http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 tvg-name="421 Discovery Science Latinoamerica" group-title="Documentales",US: DISCOVERY SCIENCE
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO Alt
 http://181.78.105.146:2000/play/a01l/index.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Documentales",US: NAT GEO WILD
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-name="History Latino America" group-title="Documentales",History
 http://181.78.106.127:9000/play/ca061/index.m3u8
@@ -725,15 +609,8 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/22
 #EXTINF:-1 tvg-name="672 TVCD" tvg-logo="" group-title="Live TV",TVC
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
-#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 ################## OTROS ###################
-
-#EXTINF:-1 tvg-name="Showtime East" tvg-logo="" group-title="Entretenimiento",Showtime East
-https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-
-
 
 #EXTINF:-1 tvg-name="Telemundo East" tvg-logo="" group-title="NEWS",Telemundo East
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
@@ -774,3 +651,120 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2 Alt
 http://181.78.106.127:9000/play/ca032/index.m3u8
 
+
+######## English Channels ########
+
+#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-name="Showtime East" tvg-logo="" group-title="Entretenimiento",Showtime East
+https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+##### Documentales ########
+
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Documentales",US: DISCOVERY CHANNEL
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-name="261 Discovery life" group-title="Documentales",US: DISCOVERY LIFE
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Life" tvg-title="", Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-name="421 Discovery Science Latinoamerica" group-title="Documentales",US: DISCOVERY SCIENCE
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Documentales",US: NAT GEO WILD
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+
+#### English Cartoons #######
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",US: CARTOON NETWORK
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cartoon",US: NICK JR
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Cartoon",US: NICKELODEON
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Cartoon",US: DISNEY XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="Disney JR" group-title="Cartoon",DISNEY JR : US
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+
+########## SPORTS CHANNELS ##################
+
+#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
+http://fl2.moveonjoy.com/WWE/index.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+####### NBA LIST #########
+#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 01
+https://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 02
+https://fl5.moveonjoy.com/NBA_2/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 03
+https://fl5.moveonjoy.com/NBA_3/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 04
+https://fl5.moveonjoy.com/NBA_4/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 05
+https://fl5.moveonjoy.com/NBA_5/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 06
+https://fl5.moveonjoy.com/NBA_6/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 07
+https://fl5.moveonjoy.com/NBA_7/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 08
+https://fl5.moveonjoy.com/NBA_8/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 09
+https://fl5.moveonjoy.com/NBA_9/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 10
+https://fl5.moveonjoy.com/NBA_10/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 11
+https://fl5.moveonjoy.com/NBA_11/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 12
+https://fl5.moveonjoy.com/NBA_12/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 13
+https://fl5.moveonjoy.com/NBA_13/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 14
+https://fl5.moveonjoy.com/NBA_14/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 15
+https://fl5.moveonjoy.com/NBA_15/index.m3u8
+#EXTINF:-1 group-title="NBA",US: ANB 16
+https://fl5.moveonjoy.com/NBA_16/index.m3u8
+
+####### MLB LIST #########
+#EXTINF:-1 group-title="MLB", US: BLM 01
+https://fl4.moveonjoy.com/MLB_1/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 02
+https://fl4.moveonjoy.com/MLB_2/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 03
+https://fl4.moveonjoy.com/MLB_3/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 04
+https://fl4.moveonjoy.com/MLB_4/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 05
+https://fl4.moveonjoy.com/MLB_5/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 06
+https://fl4.moveonjoy.com/MLB_6/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 07
+https://fl4.moveonjoy.com/MLB_7/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 08
+https://fl4.moveonjoy.com/MLB_8/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 09
+https://fl4.moveonjoy.com/MLB_9/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 10
+https://fl4.moveonjoy.com/MLB_10/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 11
+https://fl4.moveonjoy.com/MLB_11/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 12
+https://fl4.moveonjoy.com/MLB_12/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 13
+https://fl4.moveonjoy.com/MLB_13/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 14
+https://fl4.moveonjoy.com/MLB_14/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 15
+https://fl4.moveonjoy.com/MLB_15/index.m3u8
+#EXTINF:-1 group-title="MLB", US: BLM 16
+https://fl4.moveonjoy.com/MLB_16/index.m3u8
+
+####### NHL LIST #########
+
+####### NFL LIST #########
