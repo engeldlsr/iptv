@@ -627,10 +627,10 @@ http://181.78.106.127:9000/play/ca032/index.m3u8
 
 
 ######## English Channels ########
-#EXTINF:-1 tvg-name="The Weather Channel" group-title="Peliculas",The Weather Channel
+#EXTINF:-1 tvg-name="The Weather Channel" group-title="NEWS",The Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="Travel Channel" group-title="Peliculas",TRAVEL CHANNEL
+#EXTINF:-1 tvg-name="Travel Channel" group-title="Entretenimiento",TRAVEL CHANNEL
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 ############## MOVIES CHANNELS ###################
