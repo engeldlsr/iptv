@@ -779,11 +779,11 @@ https://fl4.moveonjoy.com/MLB_15/index.m3u8
 https://fl4.moveonjoy.com/MLB_16/index.m3u8
 
 ####### NHL LIST #########
-#EXTINF:-1 tvg-name="NHL Network" group-title="Music",NHL NETWORK
+#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 ####### NFL LIST #########
-#EXTINF:-1 tvg-name="NFL Network" group-title="Music",NFL NETWORK
+#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 ########### MUSIC CHANNELS #########
