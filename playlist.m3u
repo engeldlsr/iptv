@@ -60,7 +60,6 @@ https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 http://181.177.255.253:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="A&E Latino America" group-title="Entretenimiento",A&E Alt
 http://181.78.105.146:2000/play/a03f/index.m3u8
-
 #EXTINF:-1 tvg-name="A&E LatinoAmerica" group-title="Entretenimiento",A&E Alt 2
 http://181.78.106.127:9000/play/ca086/index.m3u8
 
@@ -91,7 +90,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" group-title="Entretenimiento",Comedy Central Alt
 http://181.78.106.127:9000/play/ca050/index.m3u8
 
-#Canales internacionales 
 
 #EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
@@ -102,7 +100,7 @@ https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-name="RT en Español" group-title="Variedades",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Variedades",Unicable
+#EXTINF:-1 tvg-name="Unicable" group-title="Variedades",Unicable
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 
 #EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
