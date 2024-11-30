@@ -684,7 +684,7 @@ http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="Disney XD" group-title="Cartoon",DISNEY XD : US
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="Disney JR" group-title="Cartoon",DISNEY JR : US
+#EXTINF:-1 tvg-logo="Disney Jr US" group-title="Cartoon",DISNEY JR : US
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-name="Tooncast" group-title="Cartoon",Tooncast
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
