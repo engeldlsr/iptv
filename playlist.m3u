@@ -294,27 +294,24 @@ http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Peliculas",Cinecanal
 http://200.60.124.19:29000/play/a01l
 
-############# TNT Novelas #################
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Otros",TNT Novelas
-http://200.60.124.19:29000/play/a06r
 
 #EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo Int
 http://200.60.124.19:29000/play/a01g
 #EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo Int Alt
 http://181.78.106.127:9000/play/ca009/index.m3u8
 
+
+######## NOVELAS ##########
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
+http://200.60.124.19:29000/play/a06r
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
-
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS Alt
 http://181.78.106.127:9000/play/ca013/index.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Novelas",SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1 tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
@@ -372,9 +369,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-
-#EXTINF:-1 tvg-name="FX East" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685476207811-FX.webp" group-title="Peliculas",US: FX
-http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox News" group-title="Live TV",FOX EAST US
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
