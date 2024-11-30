@@ -667,6 +667,8 @@ http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY WEST" tvg-logo="" group-title="Peliculas",SYFY : US
 http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-name="TBS WEST" tvg-logo="" group-title="Peliculas",TBS : US
+http://fl2.moveonjoy.com/TBS/index.m3u8
 
 
 #EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
