@@ -383,22 +383,14 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="TeleHit Musica" tvg-name="" tvg-logo="" group-title="Music",TELEHIT Musica
 http://181.78.106.127:9000/play/ca065/index.m3u8
 
-#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Music",MTV
+#EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
-#EXTINF:-1 tvg-name="MTV 2" tvg-name="" tvg-logo="" group-title="Music", MTV 2
-http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-name="MTV Hits" tvg-name="" tvg-logo="" group-title="Music",MTV Hits
+
+#EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
 http://181.78.106.127:9000/play/ca067/index.m3u8
-
-#EXTINF:-1 tvg-name="MTV Live" tvg-name="" tvg-logo="" group-title="Music", MTV LIVE
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-
-#EXTINF:-1 tvg-name="MTV U" tvg-name="" tvg-logo="" group-title="Music", MTV U
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 tvg-name="MTVHD" group-title="Music",MTV US
 http://fl2.moveonjoy.com/MTV/index.m3u8
-
 
 ######### SPORTS CHANNELS ############################
 
@@ -797,3 +789,5 @@ http://fl2.moveonjoy.com/MTV_2/index.m3u8
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-name="MTV Live" group-title="Music",MTV LIVE : US
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="MTV Unplugged" group-title="Music", MTV U
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
