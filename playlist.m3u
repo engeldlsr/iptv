@@ -734,37 +734,37 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 ####### NBA LIST #########
 #EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 01
+#EXTINF:-1 tvg-name="NBA 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 1
 https://fl5.moveonjoy.com/NBA_1/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 02
+#EXTINF:-1 tvg-name="NBA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 2
 https://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 03
+#EXTINF:-1 tvg-name="NBA 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 3
 https://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 04
+#EXTINF:-1 tvg-name="NBA 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 4
 https://fl5.moveonjoy.com/NBA_4/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 05
+#EXTINF:-1 tvg-name="NBA 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 5
 https://fl5.moveonjoy.com/NBA_5/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 06
+#EXTINF:-1 tvg-name="NBA 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 6
 https://fl5.moveonjoy.com/NBA_6/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 07
+#EXTINF:-1 tvg-name="NBA 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 7
 https://fl5.moveonjoy.com/NBA_7/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 08
+#EXTINF:-1 tvg-name="NBA 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 8
 https://fl5.moveonjoy.com/NBA_8/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 09
+#EXTINF:-1 tvg-name="NBA 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 9
 https://fl5.moveonjoy.com/NBA_9/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 10
+#EXTINF:-1 tvg-name="NBA 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 10
 https://fl5.moveonjoy.com/NBA_10/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 11
+#EXTINF:-1 tvg-name="NBA 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 11
 https://fl5.moveonjoy.com/NBA_11/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 12
+#EXTINF:-1 tvg-name="NBA 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 12
 https://fl5.moveonjoy.com/NBA_12/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 13
+#EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 13
 https://fl5.moveonjoy.com/NBA_13/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 14
+#EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 14
 https://fl5.moveonjoy.com/NBA_14/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 15
+#EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 15
 https://fl5.moveonjoy.com/NBA_15/index.m3u8
-#EXTINF:-1 group-title="NBA",US: ANB 16
+#EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 16
 https://fl5.moveonjoy.com/NBA_16/index.m3u8
 
 ####### MLB LIST #########
