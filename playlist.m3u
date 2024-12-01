@@ -472,14 +472,12 @@ http://209.45.20.210:50001/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-name="Claro Sports 2" group-title="Sports",Claro Sports 2
+#EXTINF:-1 tvg-name="Claro Sports 1 HD" group-title="Sports",Claro Sports 2
 http://181.78.106.127:9000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-name="Tigo Sports" group-title="Sports",Tigo Sports
 http://181.78.106.127:9000/play/ca038/index.m3u8
 #EXTINF:-1 tvg-name="BeiN Sports" group-title="Sports",BeiN Sports
 http://181.78.106.127:9000/play/ca039/index.m3u8
-#EXTINF:-1 tvg-name="WWE" group-title="Sports",WWE
-http://181.78.106.127:9000/play/ca040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
@@ -706,8 +704,11 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/55
 
 ########## SPORTS CHANNELS ##################
 
+#EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
+http://181.78.106.127:9000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
 http://fl2.moveonjoy.com/WWE/index.m3u8
+
 #EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
