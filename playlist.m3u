@@ -1,11 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)",Engel
-https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8
-
-
-
 #Canales de República Dominicana
 #EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
@@ -346,11 +340,11 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
 #CBS WCBS
-#EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-news-8211-cbsn.png" group-title="Live TV",US: CBS EAST
+#EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-NEWS-8211-cbsn.png" group-title="Live TV",US: CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-name="CBS NEWS" group-title="Live TV",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://cbsn-us.cbsnstream.cbsNEWS.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
 https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
@@ -381,7 +375,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-name="Fox News" group-title="Live TV",FOX EAST US
+#EXTINF:-1 tvg-name="Fox NEWS" group-title="Live TV",FOX EAST US
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ########### MUSIC CHANNELS #################
@@ -411,7 +405,7 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
 #EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="" group-title="Sports",FOX Sports
-#https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#https://live-NEWS-manifest.tubi.video/live-NEWS-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",US: TUDN
 http://tvmate.icu:8080/Alan/Alan1234/82241
@@ -598,7 +592,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
 #EXTINF:-1 tvg-name="Telemundo East" tvg-logo="" group-title="NEWS",Telemundo East
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 group-title="NEWS",ABC News
+#EXTINF:-1 group-title="NEWS",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
@@ -668,12 +662,40 @@ http://fl5.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-name="TBS WEST" tvg-logo="" group-title="Entretenimiento",TBS : US
 http://fl2.moveonjoy.com/TBS/index.m3u8
 
-
-#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="Live TV",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-
 #EXTINF:-1 tvg-name="Showtime East" tvg-logo="" group-title="Entretenimiento",Showtime East
 https://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+
+############## NEWS #######################
+#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NEWS",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BBC.NEWS.-.North.America.HD.us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-NEWS-uk.png?raw=true" group-title="NEWS",BBC WORLD NEWS
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="NEWS",CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.CBS.NEWS.plex" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-NEWS-24-7-us.png" group-title="NEWS",CBS NEWS
+http://fl3.moveonjoy.com/CBS_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="NEWS",CNBC FHD
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="NEWS",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="Cable.NEWS.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="NEWS",CNN INTERNATIONAL
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NEWS",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="FOX Business Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="NEWS",FOX Business Network
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="Fox.NEWS.us" tvg-name="FOX NEWS Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="NEWS",FOX NEWS Channel
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="NEWS",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="NEWS",MSNBC
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/143.m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="NEWS",NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-name="355 CNBC US" tvg-logo="" group-title="NEWS",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
 
 ##### Documentales ########
 
@@ -824,3 +846,15 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-name="MIMUSICA" group-title="Music",MiMUSICA
 http://181.78.8.90:16123/play/ch53
+
+########## PPV ##################
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 1" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 1
+http://fl2.moveonjoy.com/PPV_1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 2" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 2
+http://fl2.moveonjoy.com/PPV_2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 3" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 3
+http://fl2.moveonjoy.com/PPV_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 5" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 5
+http://fl2.moveonjoy.com/PPV_5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 6" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ppv%5B1%5D.png?raw=true" group-title="Events",PPV 6
+http://fl2.moveonjoy.com/PPV_6/index.m3u8
