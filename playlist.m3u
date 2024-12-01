@@ -17,8 +17,7 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 #EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Telemicro_2002_2.png/revision/latest/scale-to-width-down/1200?cb=20191125192220&path-prefix=es" tvg-name="Telemicro" group-title="Variedades",Telemicro
-https://f.gmsiptv.com/memfs/5604a02b-a682-4561-a4c2-842948cced7e.m3u8
+
 
 #EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="NEWS",De Ultimo Minuto TV CH-06
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
@@ -35,12 +34,6 @@ http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="Microvision 10 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="Canal Telecentro (13 de República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Telecentro_RD_1999.png/revision/latest?cb=20170520155140" group-title="Variedades",Telecentro
-https://f.gmsiptv.com/memfs/0fbfb160-b15d-4013-85ef-59404ed433d6.m3u8
-
-#EXTINF:-1 tvg-id="Canal 15 (Digital Quince Telemicro) (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png" group-title="Variedades",Digital 15
-https://f.gmsiptv.com/ba77e358-fbf4-4869-9e47-fc57c57d48e6.m3u8
-
 #EXTINF:-1 tvg-chno="19" tvg-id="Canal 19 (República Dominicana).do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Variedades",Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 
@@ -52,6 +45,8 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 
 #EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="Noticias",Nuevo Diario
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
+
+
 
 
 ########### ENTRETENIMIENTO #########
@@ -72,7 +67,6 @@ http://181.78.106.127:9000/play/ca085/index.m3u8
 
 #EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
 http://181.78.106.127:9000/play/ca087/index.m3u8
-
 
 
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
@@ -419,6 +413,11 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 ####### ESPN CHANNELS ###########
+
+#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="SPORTS (DADDY LIVE)",ESPN Deportes
+https://xyzdddd.mizhls.ru/lb/premium375/index.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://cookiewebplay.xyz
+
+
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN HD
 http://181.78.106.127:9000/play/ca033/index.m3u8
 #EXTINF:-1 tvg-chno="342" tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN Alt
