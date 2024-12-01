@@ -761,44 +761,44 @@ https://fl5.moveonjoy.com/NBA_12/index.m3u8
 #EXTINF:-1 tvg-name="NBA 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 13
 https://fl5.moveonjoy.com/NBA_13/index.m3u8
 #EXTINF:-1 tvg-name="NBA 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 14
-https://fl5.moveonjoy.com/NBA_14/index.m3u8
+#https://fl5.moveonjoy.com/NBA_14/index.m3u8
 #EXTINF:-1 tvg-name="NBA 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 15
-https://fl5.moveonjoy.com/NBA_15/index.m3u8
+#https://fl5.moveonjoy.com/NBA_15/index.m3u8
 #EXTINF:-1 tvg-name="NBA 16" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 16
-https://fl5.moveonjoy.com/NBA_16/index.m3u8
+#https://fl5.moveonjoy.com/NBA_16/index.m3u8
 
 ####### MLB LIST #########
-#EXTINF:-1 group-title="MLB", US: BLM 01
+#EXTINF:-1 tvg-name="MLB 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 1
 https://fl4.moveonjoy.com/MLB_1/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 02
+#EXTINF:-1 tvg-name="MLB 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 2
 https://fl4.moveonjoy.com/MLB_2/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 03
+#EXTINF:-1 tvg-name="MLB 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 3
 https://fl4.moveonjoy.com/MLB_3/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 04
+#EXTINF:-1 tvg-name="MLB 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 4
 https://fl4.moveonjoy.com/MLB_4/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 05
+#EXTINF:-1 tvg-name="MLB 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 5
 https://fl4.moveonjoy.com/MLB_5/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 06
+#EXTINF:-1 tvg-name="MLB 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 6
 https://fl4.moveonjoy.com/MLB_6/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 07
+#EXTINF:-1 tvg-name="MLB 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 7
 https://fl4.moveonjoy.com/MLB_7/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 08
+#EXTINF:-1 tvg-name="MLB 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 8
 https://fl4.moveonjoy.com/MLB_8/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 09
+#EXTINF:-1 tvg-name="MLB 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 9
 https://fl4.moveonjoy.com/MLB_9/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 10
+#EXTINF:-1 tvg-name="MLB 10" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 10
 https://fl4.moveonjoy.com/MLB_10/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 11
+#EXTINF:-1 tvg-name="MLB 11" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 11
 https://fl4.moveonjoy.com/MLB_11/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 12
+#EXTINF:-1 tvg-name="MLB 12" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 12
 https://fl4.moveonjoy.com/MLB_12/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 13
+#EXTINF:-1 tvg-name="MLB 13" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 13
 https://fl4.moveonjoy.com/MLB_13/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 14
+#EXTINF:-1 tvg-name="MLB 14" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 14
 https://fl4.moveonjoy.com/MLB_14/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 15
+#EXTINF:-1 tvg-name="MLB 15" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 15
 https://fl4.moveonjoy.com/MLB_15/index.m3u8
-#EXTINF:-1 group-title="MLB", US: BLM 16
+#EXTINF:-1 tvg-name="MLB 16" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB",MLB 16
 https://fl4.moveonjoy.com/MLB_16/index.m3u8
 
 ####### NHL LIST #########
