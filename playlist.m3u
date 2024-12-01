@@ -456,11 +456,9 @@ http://45.228.234.210:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6 HD
 http://45.169.163.83:8000/play/a19j
 
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes 1
 http://supersonictv.live:8080/329474/903964/22222
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt
-http://edge.espn.cdn.abacast.net/espn-deportes-48
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt 2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
 
 
