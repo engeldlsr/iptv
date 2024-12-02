@@ -165,11 +165,10 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 http://181.78.106.127:9000/play/ca072/index.m3u8
 
 
-#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Peliculas",LIFETIME
+#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
 http://streamsy.online:2999/venomj/EmoOmOskzq/64
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
-
-#EXTINF:-1 tvg-name="LIFETIME" group-title="Entretenimiento",LIFETIME 
+#EXTINF:-1 tvg-name="LIFETIME" group-title="Entretenimiento",LIFETIME Alt
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-name="Lifetime East" group-title="Entretenimiento",LIFETIME : US
 http://streamsy.online:2999/venomj/EmoOmOskzq/148
@@ -419,10 +418,12 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/139
 
 
 ####### ESPN CHANNELS ###########
+
+#EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN
+http://streamsy.online:2999/venomj/EmoOmOskzq/97
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN HD
 http://181.78.106.127:9000/play/ca033/index.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN Alt
-http://181.78.105.146:2000/play/a064/index.m3u8
+
 
 #EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
 http://181.78.106.127:9000/play/ca034/index.m3u8
@@ -439,41 +440,26 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS : US
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
+
+
 #EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD
-http://181.78.106.127:9000/play/ca035/index.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 Alt
-http://181.78.105.146:2000/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD Alt 2
-#http://190.60.32.178:8178/play/a015/index.m3u8
-
+http://streamsy.online:2999/venomj/EmoOmOskzq/91
 
 #EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4 HD
-#http://45.228.234.210:8000/play/a05t/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/90
 #EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4 Alt
 http://181.78.106.127:9000/play/ca036/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN 4 HD
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
-
 #EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5 HD
-http://45.228.234.210:8000/play/a03w/index.m3u8
-
+#http://45.228.234.210:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6 HD
 http://45.169.163.83:8000/play/a19j
-
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
 http://streamsy.online:2999/venomj/EmoOmOskzq/528
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes Alt
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/528
-
-
-
 #EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1529px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
-http://209.45.20.210:50001/play/a02p/index.m3u8
+#http://209.45.20.210:50001/play/a02p/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
@@ -581,14 +567,11 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1663
 #EXTINF:-1 tvg-name="Universal Reality" group-title="Documentales",Universal REALITY
 http://streamsy.online:2999/venomj/EmoOmOskzq/1664
 
-#EXTINF:-1 tvg-name="Discovery ID Latino" group-title="Documentales",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID Latino" group-title="Documentales",Discovery ID HD
 http://181.78.8.90:16123/play/ch23
-#EXTINF:-1 group-title="Documentales",ID
-http://181.78.105.146:8800/play/a06p
-#EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt
-http://181.78.105.146:2000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
-http://181.78.106.127:9000/play/ca059/index.m3u8
+#EXTINF:-1 group-title="Documentales",Discovery ID
+http://streamsy.online:2999/venomj/EmoOmOskzq/32
+
 
 #EXTINF:-1 tvg-name="183 Discovery Home &amp; Health Latinoamerica" group-title="Documentales",H&H
 http://181.78.8.90:16123/play/ch25
