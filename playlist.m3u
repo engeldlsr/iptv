@@ -381,7 +381,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 #EXTINF:-1 tvg-name="UFC" group-title="Sports",UFC PPV
 http://streamsy.online:2999/venomj/EmoOmOskzq/631
 
-#EXTINF:-1 tvg-name="30For30" group-title="Sports",30For30
+#EXTINF:-1 tvg-name="30For30" tvg-logo="https://imgflip.com/i/9caf8j" group-title="Sports",30For30
 http://streamsy.online:2999/venomj/EmoOmOskzq/133
 
 #EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
