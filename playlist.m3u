@@ -528,7 +528,7 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-name="ID" group-title="Documentales",ID Alt 2
 http://181.78.106.127:9000/play/ca059/index.m3u8
 
-#EXTINF:-1 tvg-name="Discovery Home &amp; Health Latinoamerica" group-title="Documentales",H&H
+#EXTINF:-1 tvg-name="Discovery Home & Health Latinoamerica" group-title="Documentales",H&H
 http://181.78.8.90:16123/play/ch25
 
 #EXTINF:-1 group-title="Peliculas",AMC
