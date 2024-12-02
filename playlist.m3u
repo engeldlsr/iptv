@@ -375,7 +375,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 ######### SPORTS CHANNELS ############################
 
-#EXTINF:-1 tvg-name="UFC" group-title="Sports",DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
 http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 
 #EXTINF:-1 tvg-name="UFC" group-title="Sports",UFC PPV
