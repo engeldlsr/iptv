@@ -214,7 +214,7 @@ http://45.175.139.194:8000/play/43
 
 #EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
 http://181.78.106.127:9000/play/ca057/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet
+#EXTINF:-1 tvg-name="Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet
 http://181.78.8.90:16123/play/ch29
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet Alt
 http://181.78.106.127:9000/play/ca056/index.m3u8
