@@ -72,10 +72,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-name="LIFETIME" group-title="Entretenimiento",LIFETIME 
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-name="Lifetime.us" group-title="Entretenimiento",LIFETIME : US
-http://streamsy.online:2999/venomj/EmoOmOskzq/148
+
 
 
 #EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" tvg-logo="" group-title="Variedades",Comedy Central en español
@@ -170,8 +167,12 @@ http://181.78.106.127:9000/play/ca072/index.m3u8
 
 #EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Peliculas",LIFETIME
 http://streamsy.online:2999/venomj/EmoOmOskzq/64
-#http://45.228.234.210:8000/play/a05f/index.m3u8
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
+
+#EXTINF:-1 tvg-name="LIFETIME" group-title="Entretenimiento",LIFETIME 
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-name="Lifetime East" group-title="Entretenimiento",LIFETIME : US
+http://streamsy.online:2999/venomj/EmoOmOskzq/148
 
 #EXTINF:-1 group-title="Peliculas",TCM
 http://200.60.124.19:29000/play/a01s
