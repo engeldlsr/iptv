@@ -930,7 +930,7 @@ http://181.78.106.127:9000/play/ca065/index.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
 http://streamsy.online:2999/venomj/EmoOmOskzq/620
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV Alt
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
+#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 
 
 #EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
