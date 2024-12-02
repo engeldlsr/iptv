@@ -378,7 +378,7 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
 http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 
-#EXTINF:-1 tvg-name="UFC" group-title="Sports",UFC PPV
+#EXTINF:-1 tvg-name="UFC PPV" tvg-logo="https://i.imgflip.com/8qsuw1.png" group-title="Sports",UFC PPV
 http://streamsy.online:2999/venomj/EmoOmOskzq/631
 
 #EXTINF:-1 tvg-name="30For30" tvg-logo="https://imgflip.com/i/9caf8j" group-title="Sports",30For30
