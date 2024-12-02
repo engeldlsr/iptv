@@ -249,14 +249,6 @@ http://181.78.106.127:9000/play/ca080/index.m3u8
 ########## HBO ####################
 #EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO
 http://181.78.106.127:9000/play/ca068/index.m3u8
-#EXTINF:-1 tvg-name="HBO HD LatinoAmerica" group-title="Peliculas",HBO HD
-#http://200.60.124.19:29000/play/a070
-#EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO Alt
-#http://170.82.37.21:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO Alt 2
-#http://181.78.106.127:9000/play/ca068/index.m3u8
-#EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO Alt 3
-#http://168.181.122.234:8000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2 LatinoAmerica" group-title="Peliculas",HBO 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/121
