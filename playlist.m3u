@@ -216,7 +216,7 @@ http://45.175.139.194:8000/play/43
 http://181.78.106.127:9000/play/ca057/index.m3u8
 #EXTINF:-1 tvg-name="Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet
 http://181.78.8.90:16123/play/ch29
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Documentales",Animanl Planet Alt
+#EXTINF:-1 tvg-name="883 APMXHD" group-title="Documentales",Animanl Planet Alt
 http://181.78.106.127:9000/play/ca056/index.m3u8
 #EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
 http://45.175.139.194:8000/play/50
