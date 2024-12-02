@@ -422,33 +422,23 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/139
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN
 http://streamsy.online:2999/venomj/EmoOmOskzq/97
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN HD
-http://181.78.106.127:9000/play/ca033/index.m3u8
-
-
+#http://181.78.106.127:9000/play/ca033/index.m3u8
 #EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
-http://181.78.106.127:9000/play/ca034/index.m3u8
-#EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2 Alt
+#http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/1732
-
-
 #EXTINF:-1 tvg-chno="" tvg-name="ESPN US" group-title="Sports",ESPN : US
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2 : US
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS : US
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-
-
 #EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3 HD
 http://streamsy.online:2999/venomj/EmoOmOskzq/91
-
 #EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4 HD
 http://streamsy.online:2999/venomj/EmoOmOskzq/90
 #EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4 Alt
-http://181.78.106.127:9000/play/ca036/index.m3u8
+#http://181.78.106.127:9000/play/ca036/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5 HD
 #http://45.228.234.210:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6 HD
