@@ -24,7 +24,26 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 
+
+
+
+
 ########### ENTRETENIMIENTO #########
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entretenimiento",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+
+#EXTINF:-1 tvg-id="Catchy.Comedy.us" tvg-name="Catchy Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/catchy-comedy-us.png?raw=true" group-title="Entretenimiento",Catchy Comedy
+http://fl3.moveonjoy.com/Decades/index.m3u8
+
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento",A&E
 http://nxt.plus:8080/jesus01/jesus01/43497
@@ -79,6 +98,11 @@ http://181.78.106.127:9000/play/ca088/index.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
 
 ############# PELICULAS ###########################
 
@@ -183,24 +207,17 @@ http://45.175.139.194:8000/play/42
 http://45.175.139.194:8000/play/43
 
 
-#EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
-http://181.78.106.127:9000/play/ca057/index.m3u8
-#EXTINF:-1 tvg-name="402 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet
-http://181.78.8.90:16123/play/ch29
-#EXTINF:-1 tvg-name="22 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet Alt
-http://181.78.106.127:9000/play/ca056/index.m3u8
-#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
-http://45.175.139.194:8000/play/50
-#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork Alt
-http://181.78.8.90:16123/play/ch28
-#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature
-http://45.175.139.194:8000/play/51
-#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature Alt
-http://181.78.8.90:16123/play/ch50
-#EXTINF:-1 tvg-name="NAT Geo Wild West" group-title="Documentales",NATGEO
-http://181.78.8.90:16123/play/ch30
-#EXTINF:-1 tvg-chno="454" tvg-name="National Geographic LatinoAmerica" group-title="Documentales",NATGEO Alt 
-http://45.175.139.194:8000/play/52
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,10 +241,13 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 
+#EXTINF:-1 group-title="Peliculas",AMC
+http://190.61.42.218:9000/play/a069
+#EXTINF:-1 tvg-name="AMC LatinoAmerica" group-title="Peliculas",AMC Alt
+http://181.78.106.127:9000/play/ca080/index.m3u8
+
 
 ########## HBO ####################
-
-
 #EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO
 #http://181.78.106.127:9000/play/ca068/index.m3u8
 #EXTINF:-1 tvg-name="HBO HD LatinoAmerica" group-title="Peliculas",HBO HD
@@ -496,7 +516,35 @@ https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 #EXTINF:-1 tvg-name="EURONEWS" group-title="NEWS",EURONEWS
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=q4xy4fyCi3d8tDzz4tHi
 
+
+
+
 ############## Documentales ######################
+
+#EXTINF:-1 tvg-name="402 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet
+http://181.78.8.90:16123/play/ch29
+#EXTINF:-1 tvg-name="22 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet Alt
+http://181.78.106.127:9000/play/ca056/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
+http://181.78.106.127:9000/play/ca057/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
+http://45.175.139.194:8000/play/50
+#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork Alt
+http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature
+http://45.175.139.194:8000/play/51
+#EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature Alt
+http://181.78.8.90:16123/play/ch50
+#EXTINF:-1 tvg-name="NAT Geo Wild West" group-title="Documentales",NATGEO
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 tvg-chno="454" tvg-name="National Geographic LatinoAmerica" group-title="Documentales",NATGEO Alt 
+http://45.175.139.194:8000/play/52
+
+
 #EXTINF:-1 tvg-name="Universal Crime" group-title="Documentales",Universal Crime
 http://181.78.106.127:9000/play/ca083/index.m3u8
 
@@ -512,10 +560,6 @@ http://181.78.106.127:9000/play/ca059/index.m3u8
 #EXTINF:-1 tvg-name="183 Discovery Home &amp; Health Latinoamerica" group-title="Documentales",H&H
 http://181.78.8.90:16123/play/ch25
 
-#EXTINF:-1 group-title="Peliculas",AMC
-http://190.61.42.218:9000/play/a069
-#EXTINF:-1 tvg-name="AMC LatinoAmerica" group-title="Peliculas",AMC Alt
-http://181.78.106.127:9000/play/ca080/index.m3u8
 
 #EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO Alt
 http://181.78.105.146:2000/play/a01l/index.m3u8
@@ -631,12 +675,26 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
+
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="" group-title="Peliculas",STARZ : US
 http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-name="Starz West" tvg-logo="" group-title="Peliculas",STARZ Alt : US
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Peliculas",STARZ Comedy : US
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movies",Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Movies",Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movies",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movies",STARZ ENCORE CLASSIC
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movies",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies",STARZ WEST
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
 
 #EXTINF:-1 tvg-name="SYFY WEST" tvg-logo="" group-title="Peliculas",SYFY : US
 http://fl5.moveonjoy.com/SYFY/index.m3u8
