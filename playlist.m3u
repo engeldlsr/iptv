@@ -1,53 +1,27 @@
 #EXTM3U
 
-#Canales de República Dominicana
 #EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-
-#Principales canales dominicanos
-
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="NEWS",En Television
-https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
-
-#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-
 #EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="NEWS",De Ultimo Minuto TV CH-06
-https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-
 #EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-id="CH-08.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes CH-08
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
-
 #EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variedades",Color Vision
 http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
-
 #EXTINF:-1 tvg-chno="10" tvg-id="Microvision 10 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-
 #EXTINF:-1 tvg-chno="19" tvg-id="Canal 19 (República Dominicana).do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Variedades",Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-
 #EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/284?cb=20171109210821" group-title="Variedades",Antena 21
 https://d1p8txxph783az.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="NEWS",CDN
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
-
 #EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="Noticias",Nuevo Diario
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
-
-
 
 
 ########### ENTRETENIMIENTO #########
@@ -99,9 +73,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Unicable" group-title="Variedades",Unicable
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
-
-#EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
-https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
 http://181.78.106.127:9000/play/ca088/index.m3u8
@@ -307,6 +278,7 @@ http://181.78.106.127:9000/play/ca009/index.m3u8
 
 
 ######## NOVELAS ##########
+
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
@@ -325,6 +297,8 @@ http://181.78.106.127:9000/play/ca014/index.m3u8
 http://181.78.106.127:9000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-name="Televisa" group-title="Novelas",Pasiones
 http://181.78.106.127:9000/play/ca017/index.m3u8
+
+
 
 ##########Internacionales#########################
 
@@ -346,8 +320,6 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-name="CBS NEWS" group-title="Live TV",CBS NEWS
 https://cbsn-us.cbsnstream.cbsNEWS.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
-https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 #AZMUNDO
 
@@ -378,15 +350,6 @@ http://fl5.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-name="Fox NEWS" group-title="Live TV",FOX EAST US
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
-########### MUSIC CHANNELS #################
-#EXTINF:-1 tvg-name="Telehit Música Plus" tvg-name="" tvg-logo="" group-title="Music",TELEHIT Musica
-http://181.78.106.127:9000/play/ca065/index.m3u8
-
-#EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
-
-#EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
-http://181.78.106.127:9000/play/ca067/index.m3u8
 
 ######### SPORTS CHANNELS ############################
 
@@ -508,9 +471,27 @@ http://181.78.8.90:16123/play/ch03
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Jr Alt
 http://181.78.8.90:16123/play/ch05
 
+
 ############### NEWS #################
+
+#EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
+https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CH-06.DOM" tvg-logo="https://i.imgur.com/dANzece.png" tvg-name="De Ultimo Minuto TV" group-title="NEWS",De Ultimo Minuto TV CH-06
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="NEWS",En Television
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 group-title="NEWS", TELEMUNDO 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
 #EXTINF:-1 tvg-name="Univision East" group-title="NEWS",US: UNIVISION
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+
+#EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
+https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 #EXTINF:-1 tvg-name="EURONEWS" group-title="NEWS",EURONEWS
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=q4xy4fyCi3d8tDzz4tHi
@@ -832,6 +813,12 @@ http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 ########### MUSIC CHANNELS #########
+#EXTINF:-1 tvg-name="Telehit Música Plus" tvg-name="" tvg-logo="" group-title="Music",TELEHIT Musica
+http://181.78.106.127:9000/play/ca065/index.m3u8
+#EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
+#EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
+http://181.78.106.127:9000/play/ca067/index.m3u8
 #EXTINF:-1 tvg-name="FOX SOUL" group-title="Music",FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV : US
