@@ -112,9 +112,9 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/15
 #EXTINF:-1 tvg-name="Star Latino America" group-title="Peliculas",STAR CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1747
 
-#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL
+#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Peliculas HD" group-title="Peliculas",SONY CHANNEL
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Movies HD" group-title="Peliculas",SONY CHANNEL Alt
+#EXTINF:-1 tvg-chno="208" tvg-name="111 Sony Peliculas HD" group-title="Peliculas",SONY CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1753
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
@@ -713,7 +713,7 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-name="FREEFORM" group-title="Entretenimiento",FREEFORM : US
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
-############## MOVIES CHANNELS ###################
+############## Peliculas CHANNELS ###################
 #EXTINF:-1 tvg-name="FX East" tvg-logo="" group-title="Peliculas",FX : US
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-name="FXM" tvg-logo="" group-title="Peliculas",FXM : US
@@ -728,17 +728,17 @@ http://fl5.moveonjoy.com/STARZ/index.m3u8
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Peliculas",STARZ Comedy : US
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Movies",Starz Edge
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Peliculas",Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Movies",Starz Encore
+#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Peliculas",Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Movies",Starz Encore Action
+#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Peliculas",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Movies",STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="Peliculas",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Movies",Starz Encore Westerns
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Peliculas",Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Movies",STARZ WEST
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="STARZ WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Peliculas",STARZ WEST
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 
