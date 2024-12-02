@@ -631,11 +631,11 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 tvg-name="Starz West" tvg-logo="" group-title="Peliculas",STARZ : US
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz" tvg-logo="" group-title="Peliculas",STARZ : US
 http://fl5.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-name="Starz West" tvg-logo="" group-title="Peliculas",STARZ WEST : US
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-name="Starz Comedy East" tvg-logo="" group-title="Peliculas",STARZ Comedy : US
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy East" tvg-logo="" group-title="Peliculas",STARZ Comedy : US
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY WEST" tvg-logo="" group-title="Peliculas",SYFY : US
