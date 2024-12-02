@@ -9,3 +9,5 @@ Este servicio está destinado únicamente para uso personal y no comercial. No s
 
 <h3>Exención de Responsabilidad</h3>
 Es responsabilidad del usuario garantizar el cumplimiento de las leyes locales en relación con el uso de estos enlaces. Si algún contenido enlazado vulnera derechos de autor o políticas de uso, agradeceremos que nos notifique para proceder a eliminarlo inmediatamente.
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg_0Ic6SjzZHxc_IvrVhkDvEl5MHla9BuJYhtv8eAY7micHjREvNPTKi1HaBnzI8n-lP_o-3e305jLUSIzr9xKnjF6RvvE6ZXR_qumHpnF67SsOaOGg_4KkxZa0TWX24CJozHHSsE_UvE3/s640/lista-canales-iptv-pachinn-sin-geobloqueo-actualizadas-smart-tv-ssiptv-android-pc.jpg" alt="IPTV" />
