@@ -111,7 +111,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1747
 
 #EXTINF:-1 tvg-chno="208" tvg-name="Sony Movie Channel" group-title="Peliculas",SONY CHANNEL
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1 tvg-name="SONY CHANNEL" group-title="Peliculas",SONY CHANNEL Alt
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1753
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
