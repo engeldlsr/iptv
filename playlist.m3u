@@ -699,8 +699,8 @@ http://181.78.106.127:9000/play/ca023/index.m3u8
 
 #EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
 http://181.78.106.127:9000/play/ca025/index.m3u8
-#EXTINF:-1 tvg-name="DAZN" group-title="Sports",DAZN
-http://181.78.106.127:9000/play/ca027/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports
 http://181.78.106.127:9000/play/ca028/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports 2
