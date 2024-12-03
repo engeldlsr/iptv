@@ -23,18 +23,23 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 
-
-
-
-
 ########### ENTRETENIMIENTO #########
+
+#EXTINF:-1 group-title="Entretenimiento",A&E
+http://streamsy.online:2999/venomj/EmoOmOskzq/20
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento",Antena 3 INT
+http://streamsy.online:2999/venomj/EmoOmOskzq/564
+
 #EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
 #EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entretenimiento",Buzzr
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
@@ -43,19 +48,6 @@ http://fl3.moveonjoy.com/Decades/index.m3u8
 
 #EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento",A&E
-
-http://streamsy.online:2999/venomj/EmoOmOskzq/20
-
-#EXTINF:-1 group-title="Entretenimiento",A&E 1
-#http://nxt.plus:8080/jesus01/jesus01/43497
-#EXTINF:-1 tvg-chno="" tvg-name="A&E LatinoAmerica" group-title="Entretenimiento",A&E 2
-#http://181.177.255.253:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="A&E LatinoAmerica" group-title="Entretenimiento",A&E 3
-#http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-name="A&E LatinoAmerica" group-title="Entretenimiento",A&E 4
-#http://181.78.106.127:9000/play/ca086/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN 
 http://streamsy.online:2999/venomj/EmoOmOskzq/1746
