@@ -286,15 +286,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1628
 #EXTINF:-1 group-title="Peliculas",Cinecanal
 http://200.60.124.19:29000/play/a01l
 
-
-#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo
-http://streamsy.online:2999/venomj/EmoOmOskzq/125
-#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo Int
-http://200.60.124.19:29000/play/a01g
-#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo Int Alt
-http://181.78.106.127:9000/play/ca009/index.m3u8
-
-
 ######## NOVELAS ##########
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
@@ -684,8 +675,12 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/418
 #EXTINF:-1 tvg-name="Glitz" tvg-logo="" group-title="Entretenimiento",Glitz
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
 
+#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Live TV",Telemundo
+http://streamsy.online:2999/venomj/EmoOmOskzq/125
 #EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Entretenimiento",Telemundo Int
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
+#EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="NEWS",Telemundo Internacional
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-chno="242" tvg-name="242 Tru TV Latinoamerica" group-title="Entretenimiento",Tru TV
 http://streamsy.online:2999/venomj/EmoOmOskzq/22
@@ -698,9 +693,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
 
 
 ################## OTROS ###################
-
-#EXTINF:-1 tvg-name="Telemundo East" tvg-logo="" group-title="NEWS",Telemundo East
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 group-title="NEWS",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
