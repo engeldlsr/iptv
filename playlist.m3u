@@ -469,6 +469,36 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/293
 http://streamsy.online:2999/venomj/EmoOmOskzq/89
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 
+#EXTINF:-1 tvg-name="MLB Network" group-title="Sports",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
+http://74.48.44.156:1234/stream/asd/482/master.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",US: TUDN
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
+#EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" group-title="Sports",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4" group-title="Sports",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
+http://181.78.106.127:9000/play/ca040/index.m3u8
+#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
+http://fl2.moveonjoy.com/WWE/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-name="UFC PPV" tvg-logo="https://i.imgflip.com/8qsuw1.png" group-title="Sports",UFC PPV
@@ -477,8 +507,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/631
 #EXTINF:-1 tvg-name="30For30" tvg-logo="https://i.imgflip.com/9caf8j.jpg" group-title="Sports",30 For 30
 http://streamsy.online:2999/venomj/EmoOmOskzq/133
 
-#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
-http://74.48.44.156:1234/stream/asd/482/master.m3u8
+
 
 #EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",SPECTRUM SPORTSNET
 http://streamsy.online:2999/venomj/EmoOmOskzq/1609
@@ -493,13 +522,6 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",US: TUDN
-http://tvmate.icu:8080/Alan/Alan1234/82241
-
-#EXTINF:-1 tvg-name="MLB Network" group-title="Sports",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="Wapa Deportes" group-title="Sports",Wapa Deportes : PR
 http://streamsy.online:2999/venomj/EmoOmOskzq/128
@@ -827,24 +849,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/55
 
 
 
-#EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
-http://181.78.106.127:9000/play/ca040/index.m3u8
-#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
-http://fl2.moveonjoy.com/WWE/index.m3u8
-
-#EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-name="TSN 3" group-title="Sports",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-name="TSN 4" group-title="Sports",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 ####### NBA LIST #########
 #EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
