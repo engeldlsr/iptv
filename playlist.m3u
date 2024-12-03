@@ -59,8 +59,9 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/20
 
 #EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN 
 http://streamsy.online:2999/venomj/EmoOmOskzq/1746
+
 #EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN Alt
-https://streamer1.nexgen.bz/AXN/index.m3u8
+#https://streamer1.nexgen.bz/AXN/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
@@ -455,7 +456,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/93
 #http://streamsy.online:2999/venomj/EmoOmOskzq/1731
 #EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
 http://streamsy.online:2999/venomj/EmoOmOskzq/992
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 US" group-title="Sports",FS 1 : US
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 US" group-title="Sports",FS1 : US
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FS2 : US
 #http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
@@ -503,11 +504,9 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
 http://181.78.106.127:9000/play/ca040/index.m3u8
-#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
+
+#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE : US
 http://fl2.moveonjoy.com/WWE/index.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-name="UFC PPV" tvg-logo="https://i.imgflip.com/8qsuw1.png" group-title="Sports",UFC PPV
