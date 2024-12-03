@@ -429,10 +429,10 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/90
 #http://45.228.234.210:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6
 http://45.169.163.83:8000/play/a19j
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
-http://streamsy.online:2999/venomj/EmoOmOskzq/528
 #EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
+http://streamsy.online:2999/venomj/EmoOmOskzq/528
 #EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1529px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
 #http://209.45.20.210:50001/play/a02p/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-name="ESPN US" group-title="Sports",ESPN : US
@@ -455,11 +455,11 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/93
 #http://streamsy.online:2999/venomj/EmoOmOskzq/1731
 #EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
 http://streamsy.online:2999/venomj/EmoOmOskzq/992
-#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 US" group-title="Sports",FS 1 : US
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2 Alt
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FS2 : US
+#http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2
 http://streamsy.online:2999/venomj/EmoOmOskzq/264
 
 
