@@ -46,7 +46,9 @@ http://fl3.moveonjoy.com/Decades/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento",A&E
-http://streamsy.online:2999/venomj/EmoOmOskzq/120
+
+http://streamsy.online:2999/venomj/EmoOmOskzq/20
+
 #EXTINF:-1 group-title="Entretenimiento",A&E 1
 #http://nxt.plus:8080/jesus01/jesus01/43497
 #EXTINF:-1 tvg-chno="" tvg-name="A&E LatinoAmerica" group-title="Entretenimiento",A&E 2
@@ -110,14 +112,12 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/15
 http://streamsy.online:2999/venomj/EmoOmOskzq/1747
 
 #EXTINF:-1 tvg-chno="208" tvg-name="Sony Movie Channel" group-title="Peliculas",SONY CHANNEL
-http://181.78.105.146:2000/play/a002/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/16
 #EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1753
 
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
 http://streamsy.online:2999/venomj/EmoOmOskzq/30
-#EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E! Alt
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/30
 
 #EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Entretenimiento",AXN
 http://181.78.106.127:9000/play/ca085/index.m3u8
@@ -130,20 +130,17 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1743
 #http://181.78.105.146:2000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-name="FX Latino America" group-title="Peliculas",FX Alt 2
 #http://45.175.139.194:8000/play/43
-#EXTINF:-1 tvg-chno="226" tvg-name="SPACE Latinoamerica" group-title="Peliculas",FX Alt3
-#http://streamsy.online:2999/venomj/EmoOmOskzq/1743
+
 
 #EXTINF:-1 group-title="Peliculas",Universal TV
-http://streamsy.online:2999/venomj/EmoOmOskzq/1745
+http://streamsy.online:2999/venomj/EmoOmOskzq/18
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1745
 
 
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" group-title="Peliculas",STUDIO UNIVERSAL
-http://streamsy.online:2999/venomj/EmoOmOskzq/1742
+http://streamsy.online:2999/venomj/EmoOmOskzq/86
 #EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL Alt
-http://190.61.42.218:9000/play/a010
-#EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL Alt 2
-http://181.78.106.127:9000/play/ca074/index.m3u8
-#http://nxt.plus:8080/jesus01/jesus01/9780
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1742
 
 #EXTINF:-1 tvg-name="Universal Premiere East" group-title="Peliculas",UNIVERSAL PREMIERE
 http://streamsy.online:2999/venomj/EmoOmOskzq/1661
@@ -158,11 +155,10 @@ http://190.61.42.218:9000/play/a008
 
 #EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV HD
 http://streamsy.online:2999/venomj/EmoOmOskzq/17
-#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV Alt
-http://181.78.106.127:9000/play/ca071/index.m3u8
 
-#EXTINF:-1 tvg-chno="226" tvg-nace="SPACE" group-title="Peliculas",SPACE HD
-http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1 tvg-chno="226" tvg-nace="SPACE" group-title="Peliculas",SPACE
+http://streamsy.online:2999/venomj/EmoOmOskzq/79
+#http://181.78.106.127:9000/play/ca072/index.m3u8
 
 
 #EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
@@ -181,10 +177,15 @@ http://45.228.234.210:8000/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Peliculas",Cine Hispano
 http://181.78.8.90:16123/play/ch51
 
+#EXTINF:-1 tvg-name="Golden Latinoamerica" group-title="Peliculas",Golden
+http://streamsy.online:2999/venomj/EmoOmOskzq/1624
 #EXTINF:-1 tvg-name="Golden Edge" group-title="Peliculas",Golden EDGE
 http://181.78.106.127:9000/play/ca078/index.m3u8
-#EXTINF:-1 tvg-name="Golden Edge" group-title="Peliculas",Golden EDGE Alt
-http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-name="Golden Plus" group-title="Peliculas",GOLDEN PLUS
+http://streamsy.online:2999/venomj/EmoOmOskzq/75
+#EXTINF:-1 tvg-chno="608" tvg-name="Golden Premiere" group-title="Peliculas",GOLDEN PREMIERE
+http://streamsy.online:2999/venomj/EmoOmOskzq/83
+
 
 #EXTINF:-1 group-title="Peliculas",Multipremier
 http://168.181.122.234:8000/play/a00r/index.m3u8
@@ -198,9 +199,7 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 http://181.78.106.127:9000/play/ca079/index.m3u8
 
 #EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT
-http://200.52.150.5:8000/play/a0sq/index.m3u8
-#EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT Alt
-http://181.78.105.146:2000/play/a018/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/74
 
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
 http://nxt.plus:8080/jesus01/jesus01/2833
@@ -212,10 +211,7 @@ http://181.78.106.127:9000/play/ca073/index.m3u8
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",TCM
 http://45.175.139.194:8000/play/39
-#EXTINF:-1 tvg-name="Golden Latinoamerica" group-title="Peliculas",Golden
-http://streamsy.online:2999/venomj/EmoOmOskzq/1624
-#EXTINF:-1 tvg-name="Golden Latinoamerica" group-title="Peliculas",Golden Alt
-http://45.175.139.194:8000/play/40
+
 #EXTINF:-1 tvg-name="Star Channel" group-title="Peliculas",STAR CHANNEL Alt
 http://45.175.139.194:8000/play/42
 
@@ -228,6 +224,8 @@ http://nxt.plus:8080/jesus01/jesus01/59144
 http://181.78.105.146:2000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series
+http://streamsy.online:2999/venomj/EmoOmOskzq/33
+#EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series Alt
 http://nxt.plus:8080/jesus01/jesus01/16925
 
 #EXTINF:-1 group-title="Peliculas",MX FAMILY
@@ -238,17 +236,15 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",OLD
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AMC Latinoamerica" group-title="Peliculas",AMC HD
-http://streamsy.online:2999/venomj/EmoOmOskzq/1741
-#EXTINF:-1 group-title="Peliculas",AMC
-http://190.61.42.218:9000/play/a069
-#EXTINF:-1 tvg-name="AMC LatinoAmerica" group-title="Peliculas",AMC Alt
-http://181.78.106.127:9000/play/ca080/index.m3u8
+#EXTINF:-1 tvg-name="AMC Latinoamerica" group-title="Peliculas",AMC
+http://streamsy.online:2999/venomj/EmoOmOskzq/78
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1741
 
 
 ########## HBO ####################
 #EXTINF:-1 tvg-name="HBO LatinoAmerica" group-title="Peliculas",HBO
-http://181.78.106.127:9000/play/ca068/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/120
+#http://181.78.106.127:9000/play/ca068/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2 LatinoAmerica" group-title="Peliculas",HBO 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/121
@@ -301,6 +297,8 @@ http://181.78.106.127:9000/play/ca009/index.m3u8
 
 ######## NOVELAS ##########
 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
+http://streamsy.online:2999/venomj/EmoOmOskzq/39
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 #EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
@@ -401,11 +399,7 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="221 CBS Sports Network HD" group-title="Sports",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports" group-title="Sports",FOXS ports
-#http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 
-#EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
-http://streamsy.online:2999/venomj/EmoOmOskzq/992
 
 #EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",US: TUDN
 http://tvmate.icu:8080/Alan/Alan1234/82241
@@ -424,26 +418,37 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/139
 
 #EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN
 http://streamsy.online:2999/venomj/EmoOmOskzq/97
+
 #EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/1732
+
 #EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3
 http://streamsy.online:2999/venomj/EmoOmOskzq/91
+
 #EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4
 http://streamsy.online:2999/venomj/EmoOmOskzq/90
+
 #EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5
 #http://45.228.234.210:8000/play/a03w/index.m3u8
+
 #EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6
 http://45.169.163.83:8000/play/a19j
+
 #EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
 http://streamsy.online:2999/venomj/EmoOmOskzq/528
+
 #EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
 http://190.60.32.178:8178/play/a0ad/index.m3u8
+
 #EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1529px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
 #http://209.45.20.210:50001/play/a02p/index.m3u8
+
 #EXTINF:-1 tvg-chno="" tvg-name="ESPN US" group-title="Sports",ESPN : US
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2 : US
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS : US
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
@@ -463,9 +468,6 @@ http://181.78.106.127:9000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
-https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-
 #EXTINF:-1 tvg-name=TVC Deportes"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Sports",TVC Deportes
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 
@@ -481,14 +483,20 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
 
 
 ############ CARTOON ###########################
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Cartoon",CARTOON NETWORK
-http://181.78.106.127:9000/play/ca051/index.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK Latinoamerica" group-title="Cartoon",CARTOON NETWORK
+http://streamsy.online:2999/venomj/EmoOmOskzq/50
+#http://181.78.106.127:9000/play/ca051/index.m3u8
+
 #EXTINF:-1 tvg-name="Nickelodeon Latinoamerica" group-title="Cartoon",NICKELODEON
 http://181.78.106.127:9000/play/ca052/index.m3u8
+
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Channel
-http://181.78.106.127:9000/play/ca053/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/46
+
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Channel Alt
-http://181.78.8.90:16123/play/ch03
+http://181.78.106.127:9000/play/ca053/index.m3u8
+
 #EXTINF:-1 tvg-name="Disney Channel" group-title="Cartoon",Disney Jr Alt
 http://181.78.8.90:16123/play/ch05
 
@@ -523,23 +531,17 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682
 ############## Documentales ######################
 
 #EXTINF:-1 tvg-name="402 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet
-http://181.78.8.90:16123/play/ch29
-#EXTINF:-1 tvg-name="22 Animal PLanet Latinoamerica" group-title="Documentales",Animanl Planet Alt
-http://181.78.106.127:9000/play/ca056/index.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Latino America" group-title="Documentales",Discovery Alt 2
-http://181.78.106.127:9000/play/ca057/index.m3u8
-
-
+http://streamsy.online:2999/venomj/EmoOmOskzq/61
 
 #EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork
-http://45.175.139.194:8000/play/50
-#EXTINF:-1 tvg-name="Food Network LanitoAmerica" group-title="Entretenimiento",Food NetWork Alt
-http://181.78.8.90:16123/play/ch28
+http://streamsy.online:2999/venomj/EmoOmOskzq/27
+
 #EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature
 http://45.175.139.194:8000/play/51
+
 #EXTINF:-1 tvg-name="Love Nature" group-title="Documentales",Love Nature Alt
 http://181.78.8.90:16123/play/ch50
+
 #EXTINF:-1 tvg-name="NAT Geo Wild West" group-title="Documentales",NATGEO
 http://181.78.8.90:16123/play/ch30
 #EXTINF:-1 tvg-chno="454" tvg-name="National Geographic LatinoAmerica" group-title="Documentales",NATGEO Alt 
@@ -560,19 +562,18 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/32
 
 
 #EXTINF:-1 tvg-name="183 Discovery Home &amp; Health Latinoamerica" group-title="Documentales",H&H
-http://181.78.8.90:16123/play/ch25
+http://streamsy.online:2999/venomj/EmoOmOskzq/62
 
 
 #EXTINF:-1 tvg-name="Nat Geo" group-title="Documentales",US: NAT GEO Alt
 http://181.78.105.146:2000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-name="History Latino America" group-title="Documentales",History
-http://181.78.106.127:9000/play/ca061/index.m3u8
-#EXTINF:-1 tvg-name="History LatinoAmerica" group-title="Documentales",History Alt
-http://181.78.105.146:2000/play/a017/index.m3u8
+http://streamsy.online:2999/venomj/EmoOmOskzq/57
 
 #EXTINF:-1 tvg-chno="413" tvg-name="413 H2 Latinoamerica" tvg-logo="" group-title="Documentales",History 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/289
+
 #EXTINF:-1 tvg-chno="413" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2 Alt
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/289
 #http://181.78.105.146:2000/play/a00v/index.m3u8
@@ -616,8 +617,9 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/89
 
 #EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Entretenimiento",Telemundo Int
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/54
+
 #EXTINF:-1 tvg-chno="242" tvg-name="242 Tru TV Latinoamerica" group-title="Entretenimiento",Tru TV
-http://181.78.8.90:16123/play/ch75
+http://streamsy.online:2999/venomj/EmoOmOskzq/22
 
 #EXTINF:-1 tvg-chno="246" tvg-name="Tru TV" group-title="Entretenimiento",Tru TV : US
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
@@ -634,15 +636,15 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-#EXTINF:-1 tvg-name="Golden Plus" group-title="Peliculas",Golden Plus
-http://191.52.214.5:8000/play/a03b/index.m3u8
+
+
 #EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNNE
 http://181.78.105.146:2000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-name="CNNE" tvg-logo="" group-title="NEWS",CNN en Español
 http://181.78.106.127:9000/play/ca019/index.m3u8
 
-#EXTINF:-1 tvg-chno="608" tvg-name="Golden Edge" group-title="Peliculas",Golden Edge
-http://45.175.139.194:8000/play/29
+
 #EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Familiar
 http://45.175.139.194:8000/play/33
 #EXTINF:-1 tvg-name="Cine Familiar" group-title="Peliculas",Cine Familiar Alt
@@ -664,14 +666,37 @@ http://181.78.106.127:9000/play/ca028/index.m3u8
 http://181.78.106.127:9000/play/ca029/index.m3u8
 #EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports La Liga
 http://181.78.106.127:9000/play/ca030/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports Alt
-http://181.78.106.127:9000/play/ca031/index.m3u8
 
+############## FOX SPORTS CHANNELS ####################
 
+#EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports
+http://streamsy.online:2999/venomj/EmoOmOskzq/92
 #EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2
-http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2 Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/1731
+http://streamsy.online:2999/venomj/EmoOmOskzq/93
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1731
+
+#EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
+http://streamsy.online:2999/venomj/EmoOmOskzq/992
+
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2 Alt
+http://streamsy.online:2999/venomj/EmoOmOskzq/264
+
+
+
+
+
+
+
+
+
 
 ######## English Channels ########
 #EXTINF:-1 tvg-name="The Weather Channel" group-title="NEWS",The Weather Channel
@@ -793,13 +818,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/55
 http://181.78.106.127:9000/play/ca040/index.m3u8
 #EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE US
 http://fl2.moveonjoy.com/WWE/index.m3u8
-
-#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 1 US" group-title="Sports",FOX SPORTS 1 : US
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FOX SPORTS 2 : US
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2 Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/264
 
 #EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
