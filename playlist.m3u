@@ -472,13 +472,22 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/89
 #EXTINF:-1 tvg-name="MLB Network" group-title="Sports",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
 #EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
 http://74.48.44.156:1234/stream/asd/482/master.m3u8
+#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL NETWORK
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",US: TUDN
+#EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",TUDN : US
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
@@ -717,9 +726,6 @@ http://181.78.106.127:9000/play/ca021/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="Anime",7
 http://181.78.106.127:9000/play/ca023/index.m3u8
 
-#EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
-http://181.78.106.127:9000/play/ca025/index.m3u8
-
 
 #EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports
 http://181.78.106.127:9000/play/ca028/index.m3u8
@@ -851,8 +857,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/55
 
 
 ####### NBA LIST #########
-#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-name="NBA 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 1
 https://fl5.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 tvg-name="NBA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 2
@@ -921,12 +925,9 @@ https://fl4.moveonjoy.com/MLB_15/index.m3u8
 https://fl4.moveonjoy.com/MLB_16/index.m3u8
 
 ####### NHL LIST #########
-#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
-####### NFL LIST #########
-#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL NETWORK
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+####### NFL LIST #####
 
 ########### MUSIC CHANNELS #########
 #EXTINF:-1 tvg-name="Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Music",TELEHIT Musica
