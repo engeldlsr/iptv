@@ -985,7 +985,7 @@ https://fl4.moveonjoy.com/MLB_16/index.m3u8
 ####### NFL LIST #####
 
 ########### MUSIC CHANNELS #########
-#EXTINF:-1 tvg-name="Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Music",TELEHIT Musica
+#EXTINF:-1 tvg-id="Telehit.MÃºsica.(TELURB).do" tvg-name="Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Music",TELEHIT Musica
 http://181.78.106.127:9000/play/ca065/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV
