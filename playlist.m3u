@@ -1,23 +1,30 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
 
-#EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
+#EXTINF:-1 tvg-id="Teleuniverso.(TLUNI).do" tvg-name="TeleUniverso" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-#EXTINF:-1 tvg-id="CH-04.DOM" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4 CH-04
+
+#EXTINF:-1 tvg-id="CERTV.Canal.4.(CERTV4).do" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
-#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
+
+#EXTINF:-1 tvg-id="Antena.Latina.(ANTLA).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variedades",Color Vision
+#EXTINF:-1 tvg-id="Color.VisiÃ³n.(COLORVIS).do" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variedades",Color Vision
 http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
+
 #EXTINF:-1 tvg-chno="10" tvg-id="Microvision 10 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+
 #EXTINF:-1 tvg-chno="19" tvg-id="Canal 19 (República Dominicana).do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Variedades",Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Antena 21 (República Dominicana).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/284?cb=20171109210821" group-title="Variedades",Antena 21
+
+#EXTINF:-1 tvg-id="Antena.21.(ANT21).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/284?cb=20171109210821" group-title="Variedades",Antena 21
 https://d1p8txxph783az.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="NEWS",CDN
+
+#EXTINF:-1 tvg-chno="37" tvg-id="Cadena.de.Noticias.37.(CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="NEWS",CDN
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 
 #EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="NEWS",Nuevo Diario
@@ -426,7 +433,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-name="221 CBS Sports Network HD" group-title="Sports",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="CH-08.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes
+#EXTINF:-1 tvg-id="CDN.Deportes.(CDND).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
 #EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
