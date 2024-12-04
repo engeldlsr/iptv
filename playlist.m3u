@@ -32,6 +32,9 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/20
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
+#EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3
+https://tvnoov.com/fadoo/antena3hd.m3u8
+
 #EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3 INT
 http://streamsy.online:2999/venomj/EmoOmOskzq/564
 
@@ -333,9 +336,6 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-name="Caracol" group-title="Internacionales",CARACOL
 http://181.225.191.35:14002/play/a006/index.m3u8
-
-#EXTINF:-1 tvg-name="23 ANTENA3" group-title="Internacionales",Antena 3
-https://tvnoov.com/fadoo/antena3hd.m3u8
 
 #RAI
 
