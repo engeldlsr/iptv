@@ -24,6 +24,19 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ########### ENTRETENIMIENTO #########
 
 #EXTINF:-1 group-title="Entretenimiento",A&E
@@ -76,6 +89,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://181.78.106.127:9000/play/ca050/index.m3u8
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
@@ -95,6 +116,11 @@ http://181.78.106.127:9000/play/ca088/index.m3u8
 http://streamsy.online:2999/venomj/EmoOmOskzq/1696
 #EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
 
 
 ############# PELICULAS ###########################
@@ -377,6 +403,9 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 
 ######### SPORTS CHANNELS ############################
+#EXTINF:-1 tvg-name="AXS TV" group-title="Sports",AXS TV
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/331.m3u8
+
 #EXTINF:-1 tvg-name="221 CBS Sports Network" group-title="Sports",CBS Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1 tvg-name="221 CBS Sports Network HD" group-title="Sports",CBS Sports Network
@@ -767,7 +796,7 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="" group-title="Peliculas",FXM : US
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
