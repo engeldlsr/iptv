@@ -763,11 +763,11 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
 ############## Peliculas CHANNELS ###################
 
-#EXTINF:-1 tvg-name="FX East" tvg-logo="" group-title="Peliculas",FX : US
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX" tvg-logo="" group-title="Peliculas",FX : US
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-name="FXM" tvg-logo="" group-title="Peliculas",FXM : US
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="" group-title="Peliculas",FXM : US
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX East" tvg-logo="" group-title="Peliculas",FXX : US
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
