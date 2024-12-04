@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="Teleuniverso.(TLUNI).do" tvg-name="TeleUniverso" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
@@ -755,7 +755,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/59
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="Entretenimiento",El Garage
 http://streamsy.online:2999/venomj/EmoOmOskzq/475
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/475
-#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="" group-title="Entretenimiento",El Gourmet
+#EXTINF:-1 tvg-id="Canal.Elgourmet.ar" tvg-name="El Gourmet" tvg-logo="" group-title="Entretenimiento",El Gourmet
 http://streamsy.online:2999/venomj/EmoOmOskzq/34
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/34
 
