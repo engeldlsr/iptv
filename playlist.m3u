@@ -70,12 +70,22 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1746
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Galavision" group-title="Entretenimiento",Galavision
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/360.m3u8
+
+
 #EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
 http://181.78.106.127:9000/play/ca087/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -118,9 +128,14 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1696
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-chno="430" tvg-name="TV One" group-title="Entretenimiento",TV One
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/384.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
+
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
 
 
 ############# PELICULAS ###########################
@@ -497,6 +512,9 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Sports",OUTSIDE TV
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+
 #EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
@@ -650,7 +668,8 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
 
 #EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
-#EXTINF:-1 group-title="NEWS", TELEMUNDO 51 MIAMI
+
+#EXTINF:-1 tvg-name="Telemundo Miami" group-title="NEWS", TELEMUNDO MIAMI
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-name="Univision East" group-title="NEWS",UNIVISION : US
@@ -738,7 +757,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/418
 #EXTINF:-1 tvg-name="Glitz" tvg-logo="" group-title="Entretenimiento",Glitz
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/36
 
-#EXTINF:-1 tvg-name="Telemundo Internacional" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-name="Telemundo.pr" group-title="Entretenimiento",Telemundo
 http://streamsy.online:2999/venomj/EmoOmOskzq/125
 
 #EXTINF:-1 tvg-name="Telemundo Internacional" tvg-logo="" group-title="Entretenimiento",Telemundo Int
