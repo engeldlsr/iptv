@@ -33,9 +33,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/20
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3
-https://tvnoov.com/fadoo/antena3hd.m3u8
-
-#EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3 INT
 http://streamsy.online:2999/venomj/EmoOmOskzq/564
 
 #EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
