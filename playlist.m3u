@@ -19,7 +19,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 https://d1p8txxph783az.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="Canal 37 de República Dominicana (CDN).do" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/CDN_37_2022.png/revision/latest/scale-to-width-down/350?cb=20220428183724&path-prefix=es" group-title="NEWS",CDN
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
-#EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="Noticias",Nuevo Diario
+
+#EXTINF:-1 tvg-id="NuevoDiario.DOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCF56dUH3VZHRUCmPMxBTwGLdRIiSjuOHeKEJ-WoEn7cIyJRSVjgUdu5kvGakBaURz5hF6Ik2_6eyGvddFKkCE8ejM94tXtfoP3YT1MzYm0iOeZtZHUvJ51bwBRBsIP-pvBq95BxYfBo_vzXFX9tmebCoQ-YmCD-kAWgpfWal8T6IHdd8cN6tuyeSC5w/s200/elnuevaodiario.png" group-title="NEWS",Nuevo Diario
 https://f.gmsiptv.com/memfs/c8a271c5-246c-49fe-a763-dd3cd1382fee.m3u8
 
 
@@ -31,7 +32,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/20
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento",Antena 3 INT
+#EXTINF:-1 tvg-name="Antena 3 Internacional" group-title="Entretenimiento",Antena 3 INT
 http://streamsy.online:2999/venomj/EmoOmOskzq/564
 
 #EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
@@ -556,8 +557,9 @@ http://181.78.8.90:16123/play/ch05
 ############### NEWS #################
 
 #A
-#EXTINF:-1 group-title="NEWS",ABC NEWS
+#EXTINF:-1 tvg-name="ABC.us" group-title="NEWS",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NEWS",ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -580,9 +582,6 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.CBS.NEWS.plex" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-NEWS-24-7-us.png" group-title="NEWS",CBS NEWS
 http://fl3.moveonjoy.com/CBS_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="NEWS",CNBC FHD
-http://fl5.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC US" tvg-logo="" group-title="NEWS",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
