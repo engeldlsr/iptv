@@ -943,7 +943,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/620
 
 #EXTINF:-1 tvg-name="MTV Hits" group-title="Music",MTV Hits
 http://181.78.106.127:9000/play/ca067/index.m3u8
-#EXTINF:-1 tvg-name="FOX SOUL" group-title="Music",FOX SOUL
+#EXTINF:-1 tvg-id="plex.tv.FOX.SOUL.plex" tvg-name="FOX SOUL" group-title="Music",FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="MTV" group-title="Music",MTV : US
 http://fl2.moveonjoy.com/MTV/index.m3u8
