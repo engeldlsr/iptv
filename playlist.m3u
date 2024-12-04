@@ -70,7 +70,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1746
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entertainment",GAME SHOW NETWORK
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entretenimiento",GAME SHOW NETWORK
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="Galavision" group-title="Entretenimiento",Galavision
@@ -134,7 +134,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/384.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
 
-#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entretenimiento",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
 
