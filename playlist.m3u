@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)",A&E
-https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
-
 #EXTINF:-1 tvg-chno="29" tvg-name="Canal 29 de TeleUniverso (República Dominicana).do" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
@@ -198,10 +195,10 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/79
 #http://181.78.106.127:9000/play/ca072/index.m3u8
 
 
-#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" tvg-shift="+1" group-title="Entretenimiento",LIFETIME
+#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
 http://streamsy.online:2999/venomj/EmoOmOskzq/64
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
-#EXTINF:-1 tvg-name="LIFEMXH" tvg-shift="+2" group-title="Entretenimiento",LIFETIME Alt
+#EXTINF:-1 tvg-name="LIFEMXH" group-title="Entretenimiento",LIFETIME Alt
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-name="Lifetime East" group-title="Entretenimiento",LIFETIME : US
 http://streamsy.online:2999/venomj/EmoOmOskzq/148
