@@ -617,7 +617,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #B
-#EXTINF:-1 tvg-id="BBC.NEWS.-.North.America.HD.us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-NEWS-uk.png?raw=true" group-title="NEWS",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="BBC.NEWS.-.North.America.HD.us" tvg-name="BBC WORLD NEWS" group-title="NEWS",BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.US" tvg-logo="" group-title="NEWS",Bloomberg
