@@ -1,10 +1,220 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
+#A
+#EXTINF:-1 group-title="Entretenimiento",A&E
+http://streamsy.online:2999/venomj/EmoOmOskzq/20
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
+#EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3
+http://streamsy.online:2999/venomj/EmoOmOskzq/564
+
+#EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN 
+http://streamsy.online:2999/venomj/EmoOmOskzq/1746
+
+#EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN Alt
+#https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Entretenimiento",AXN
+http://181.78.106.127:9000/play/ca085/index.m3u8
+
+
+#B
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entretenimiento",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+
+
+#C
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+
+#EXTINF:-1 tvg-id="Catchy.Comedy.us" tvg-name="Catchy Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/catchy-comedy-us.png?raw=true" group-title="Entretenimiento",Catchy Comedy
+http://fl3.moveonjoy.com/Decades/index.m3u8
+#EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" tvg-logo="" group-title="Variedades",Comedy Central en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
+#EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" group-title="Entretenimiento",Comedy Central Alt
+http://181.78.106.127:9000/play/ca050/index.m3u8
+
+#D
+#EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#E
+#EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
+http://streamsy.online:2999/venomj/EmoOmOskzq/30
+
+
+#F
+#EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX
+http://streamsy.online:2999/venomj/EmoOmOskzq/1743
+#http://45.169.163.83:8000/play/a19c
+
+#EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX Alt
+#http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-name="FX Latino America" group-title="Peliculas",FX Alt 2
+#http://45.175.139.194:8000/play/43
+
+
+#G
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entretenimiento",GAME SHOW NETWORK
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="Galavision" group-title="Entretenimiento",Galavision
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/360.m3u8
+
+#H
+#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV
+http://streamsy.online:2999/venomj/EmoOmOskzq/1696
+
+#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+
+#I
+
+
+#J
+
+
+#K
+
+
+#L
+#EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1 tvg-name="La 2" group-title="Variedades",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
+#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
+http://streamsy.online:2999/venomj/EmoOmOskzq/64
+#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
+#EXTINF:-1 tvg-name="LIFEMXH" group-title="Entretenimiento",LIFETIME Alt
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-chno="242" tvg-name="Lifetime East" group-title="Entretenimiento",LIFETIME : US
+http://streamsy.online:2999/venomj/EmoOmOskzq/148
+
+#M
+#EXTINF:-1 tvg-name="Magnolia Network" group-title="Entretenimiento",Magnolia Network
+http://74.48.44.156:1234/stream/asd/105/master.m3u8
+
+#EXTINF:-1 tvg-name="MGM+" group-title="Entretenimiento",MGM+
+http://74.48.44.156:1234/stream/asd/107/master.m3u8
+
+#EXTINF:-1 tvg-name="MGM+ Hits" group-title="Entretenimiento",MGM+ Hits
+http://74.48.44.156:1234/stream/asd/109/master.m3u8
+
+#EXTINF:-1 tvg-name="MovieMax" group-title="Entretenimiento",MovieMax
+http://74.48.44.156:1234/stream/asd/113/master.m3u8
+
+#EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
+
+#N
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#Ñ
+
+
+
+#O
+
+
+#P
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+
+#Q
+
+
+#R
+#EXTINF:-1 tvg-name="Reelz Channel" group-title="Entretenimiento",Reelz
+http://74.48.44.156:1234/stream/asd/137/master.m3u8
+
+#EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Entretenimiento",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-name="RT en Español" group-title="Variedades",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#S
+#EXTINF:-1 tvg-chno="208" tvg-name="Sony Movie Channel" group-title="Peliculas",SONY CHANNEL
+http://streamsy.online:2999/venomj/EmoOmOskzq/16
+#EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
+http://streamsy.online:2999/venomj/EmoOmOskzq/1753
+
+#EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
+http://streamsy.online:2999/venomj/EmoOmOskzq/15
+#EXTINF:-1 tvg-name="Star Latino America" group-title="Peliculas",STAR CHANNEL Alt
+http://streamsy.online:2999/venomj/EmoOmOskzq/1747
+
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" group-title="Peliculas",STUDIO UNIVERSAL
+http://streamsy.online:2999/venomj/EmoOmOskzq/86
+#EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL Alt
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1742
+
+#T
 #EXTINF:-1 tvg-id="Teleuniverso.(TLUNI).do" tvg-name="TeleUniverso" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Variedades",Punta Cana TV
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
+
+#EXTINF:-1 tvg-chno="430" tvg-name="TV One" group-title="Entretenimiento",TV One
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/384.m3u8
+
+#U
+#EXTINF:-1 tvg-name="Unicable" group-title="Variedades",Unicable
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
+
+#EXTINF:-1 group-title="Peliculas",Universal TV
+http://streamsy.online:2999/venomj/EmoOmOskzq/18
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1745
+
+#EXTINF:-1 tvg-name="Universal Premiere East" group-title="Peliculas",UNIVERSAL PREMIERE
+http://streamsy.online:2999/venomj/EmoOmOskzq/1661
+
+#EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
+http://45.5.117.182:8000/play/a0jz/index.m3u8
+#EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA Alt
+http://streamsy.online:2999/venomj/EmoOmOskzq/1662
+
+#EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
+http://190.61.42.218:9000/play/a008
+
+#EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
+http://181.78.106.127:9000/play/ca088/index.m3u8
+
+#V
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entretenimiento",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+
+#W
+#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV HD
+http://streamsy.online:2999/venomj/EmoOmOskzq/17
+
+#X
+
+
+
+#Y
+
+
+
+#Z
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="CERTV.Canal.4.(CERTV4).do" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
@@ -28,179 +238,40 @@ https://d1p8txxph783az.cloudfront.net/index.m3u8
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 
 
-########### ENTRETENIMIENTO #########
-
-#EXTINF:-1 group-title="Entretenimiento",A&E
-http://streamsy.online:2999/venomj/EmoOmOskzq/20
-
-#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entretenimiento",American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-
-#EXTINF:-1 tvg-name="23 ANTENA3" group-title="Entretenimiento",Antena 3
-http://streamsy.online:2999/venomj/EmoOmOskzq/564
-
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entretenimiento",Buzzr
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
-
-#EXTINF:-1 tvg-id="Catchy.Comedy.us" tvg-name="Catchy Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/catchy-comedy-us.png?raw=true" group-title="Entretenimiento",Catchy Comedy
-http://fl3.moveonjoy.com/Decades/index.m3u8
-
-#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
-
-#EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN 
-http://streamsy.online:2999/venomj/EmoOmOskzq/1746
-
-#EXTINF:-1 tvg-name="AXN Latino America" group-title="Entretenimiento",AXN Alt
-#https://streamer1.nexgen.bz/AXN/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="GAME SHOW NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="Entretenimiento",GAME SHOW NETWORK
-http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="Galavision" group-title="Entretenimiento",Galavision
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/360.m3u8
-
-
-#EXTINF:-1 tvg-name="Multipremier LatinoAmerica" group-title="Entretenimiento",Multipremier
-http://181.78.106.127:9000/play/ca087/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" tvg-logo="" group-title="Variedades",Comedy Central en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
-#EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" group-title="Entretenimiento",Comedy Central Alt
-http://181.78.106.127:9000/play/ca050/index.m3u8
-
-#EXTINF:-1 tvg-name="Magnolia Network" group-title="Entretenimiento",Magnolia Network
-http://74.48.44.156:1234/stream/asd/105/master.m3u8
-
-#EXTINF:-1 tvg-name="MGM+" group-title="Entretenimiento",MGM+
-http://74.48.44.156:1234/stream/asd/107/master.m3u8
-#EXTINF:-1 tvg-name="MGM+ Hits" group-title="Entretenimiento",MGM+ Hits
-http://74.48.44.156:1234/stream/asd/109/master.m3u8
-
-#EXTINF:-1 tvg-name="MovieMax" group-title="Entretenimiento",MovieMax
-http://74.48.44.156:1234/stream/asd/113/master.m3u8
-
-#EXTINF:-1 tvg-name="Reelz Channel" group-title="Entretenimiento",Reelz
-http://74.48.44.156:1234/stream/asd/137/master.m3u8
-
-#EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Entretenimiento",Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
-
-#EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-
-#EXTINF:-1 tvg-name="La 2" group-title="Variedades",La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-
-#EXTINF:-1 tvg-name="RT en Español" group-title="Variedades",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Unicable" group-title="Variedades",Unicable
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
-
-#EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
-http://181.78.106.127:9000/play/ca088/index.m3u8
-
-#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV
-http://streamsy.online:2999/venomj/EmoOmOskzq/1696
-#EXTINF:-1 tvg-chno="430" tvg-name="430 Hola TV" group-title="Live TV",HOLA TV PLAY
-https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="430" tvg-name="TV One" group-title="Entretenimiento",TV One
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/384.m3u8
-
-#EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
-
-#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entretenimiento",VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
 
 
 ############# PELICULAS ###########################
 
-#EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
-http://streamsy.online:2999/venomj/EmoOmOskzq/15
-#EXTINF:-1 tvg-name="Star Latino America" group-title="Peliculas",STAR CHANNEL Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/1747
-
-#EXTINF:-1 tvg-chno="208" tvg-name="Sony Movie Channel" group-title="Peliculas",SONY CHANNEL
-http://streamsy.online:2999/venomj/EmoOmOskzq/16
-#EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/1753
-
-#EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
-http://streamsy.online:2999/venomj/EmoOmOskzq/30
-
-#EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Entretenimiento",AXN
-http://181.78.106.127:9000/play/ca085/index.m3u8
-
-#EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX
-http://streamsy.online:2999/venomj/EmoOmOskzq/1743
-#http://45.169.163.83:8000/play/a19c
-
-#EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX Alt
-#http://181.78.105.146:2000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-name="FX Latino America" group-title="Peliculas",FX Alt 2
-#http://45.175.139.194:8000/play/43
 
 
-#EXTINF:-1 group-title="Peliculas",Universal TV
-http://streamsy.online:2999/venomj/EmoOmOskzq/18
-#http://streamsy.online:2999/venomj/EmoOmOskzq/1745
 
 
-#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" group-title="Peliculas",STUDIO UNIVERSAL
-http://streamsy.online:2999/venomj/EmoOmOskzq/86
-#EXTINF:-1 group-title="Peliculas",STUDIO UNIVERSAL Alt
-#http://streamsy.online:2999/venomj/EmoOmOskzq/1742
 
-#EXTINF:-1 tvg-name="Universal Premiere East" group-title="Peliculas",UNIVERSAL PREMIERE
-http://streamsy.online:2999/venomj/EmoOmOskzq/1661
 
-#EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA ESTE HD
-http://45.5.117.182:8000/play/a0jz/index.m3u8
-#EXTINF:-1 tvg-name="Universal Cinema East" group-title="Peliculas",UNIVERSAL CINEMA Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/1662
 
-#EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
-http://190.61.42.218:9000/play/a008
 
-#EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV HD
-http://streamsy.online:2999/venomj/EmoOmOskzq/17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="226" tvg-nace="SPACE" group-title="Peliculas",SPACE
 http://streamsy.online:2999/venomj/EmoOmOskzq/79
 #http://181.78.106.127:9000/play/ca072/index.m3u8
 
 
-#EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
-http://streamsy.online:2999/venomj/EmoOmOskzq/64
-#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/64
-#EXTINF:-1 tvg-name="LIFEMXH" group-title="Entretenimiento",LIFETIME Alt
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-name="Lifetime East" group-title="Entretenimiento",LIFETIME : US
-http://streamsy.online:2999/venomj/EmoOmOskzq/148
+
 
 #EXTINF:-1 group-title="Peliculas",TCM
 http://200.60.124.19:29000/play/a01s
@@ -412,6 +483,8 @@ http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 
 
+
+
 ######### SPORTS CHANNELS ############################
 #EXTINF:-1 tvg-name="AXS TV" group-title="Sports",AXS TV
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/331.m3u8
@@ -532,6 +605,9 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports",SEC Network
 http://streamsy.online:2999/venomj/EmoOmOskzq/295
+
+#EXTINF:-1 tvg-name="Spectrum.SportsNet.us" group-title="Sports",Spectrum Sportsnet
+http://74.48.44.156:1234/stream/asd/153/master.m3u8
 
 #EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
 http://181.78.106.127:9000/play/ca040/index.m3u8
