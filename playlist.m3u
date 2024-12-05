@@ -697,9 +697,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1663
 #EXTINF:-1 tvg-name="Universal Reality" group-title="Documentales",Universal REALITY
 http://streamsy.online:2999/venomj/EmoOmOskzq/1664
 
-#EXTINF:-1 tvg-name="Discovery ID Latino" group-title="Documentales",Discovery ID HD
-http://181.78.8.90:16123/play/ch23
-#EXTINF:-1 group-title="Documentales",Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID Latino" group-title="Documentales",Discovery ID
 http://streamsy.online:2999/venomj/EmoOmOskzq/32
 
 
