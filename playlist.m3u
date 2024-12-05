@@ -98,6 +98,10 @@ http://74.48.44.156:1234/stream/asd/107/master.m3u8
 http://74.48.44.156:1234/stream/asd/109/master.m3u8
 
 
+#EXTINF:-1 tvg-name="MovieMax" group-title="Entretenimiento",MovieMax
+http://74.48.44.156:1234/stream/asd/113/master.m3u8
+
+
 
 #EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
@@ -988,6 +992,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 
 #EXTINF:-1 tvg-name="MTV Live" group-title="Music",MTV LIVE : US
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+http://74.48.44.156:1234/stream/asd/117/master.m3u8
 
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/thumbnail.jpg" group-title="Music",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
