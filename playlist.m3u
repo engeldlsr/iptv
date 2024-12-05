@@ -353,10 +353,6 @@ http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-NEWS-8211-cbsn.png" group-title="Live TV",US: CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 tvg-name="CBS NEWS" group-title="NEWS",CBS NEWS
-https://cbsn-us.cbsnstream.cbsNEWS.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-
 #AZMUNDO
 
 #EXTINF:-1 tvg-name="RTVE" group-title="Internacionales",RTVE
@@ -613,6 +609,9 @@ http://181.78.106.127:9000/play/ca019/index.m3u8
 
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="NEWS",CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS NEWS" group-title="NEWS",CBS NEWS
+https://cbsn-us.cbsnstream.cbsNEWS.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC US" tvg-logo="" group-title="NEWS",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
