@@ -354,7 +354,7 @@ http://181.78.106.127:9000/play/ca017/index.m3u8
 
 ##########Internacionales#########################
 
-#EXTINF:-1 tvg-name="USAJ3504719A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240709T002107SQUARE.png" group-title="Entretenimiento",Sony Competencias
+#EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="Sony Canal Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240709T002107SQUARE.png" group-title="Entretenimiento",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
 #NBC NY WNBC
