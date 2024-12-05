@@ -916,9 +916,9 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/55
 https://fl5.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(750).us" tvg-name="NBA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 2
 https://fl5.moveonjoy.com/NBA_2/index.m3u8
-#EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(751).us" tvg-name="NBA 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 3
+#EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(752).us" tvg-name="NBA 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 3
 https://fl5.moveonjoy.com/NBA_3/index.m3u8
-#EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(752).us" tvg-name="NBA 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 4
+#EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(755).us" tvg-name="NBA 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 4
 https://fl5.moveonjoy.com/NBA_4/index.m3u8
 #EXTINF:-1 tvg-id="DirecTV.NBA.League.Pass.(753).us" tvg-name="NBA 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" group-title="NBA",NBA 5
 https://fl5.moveonjoy.com/NBA_5/index.m3u8
