@@ -103,6 +103,9 @@ http://74.48.44.156:1234/stream/asd/113/master.m3u8
 #EXTINF:-1 tvg-name="Reelz Channel" group-title="Entretenimiento",Reelz
 http://74.48.44.156:1234/stream/asd/137/master.m3u8
 
+#EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Entretenimiento",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+
 #EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
@@ -526,6 +529,9 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports",SEC Network
+http://streamsy.online:2999/venomj/EmoOmOskzq/295
 
 #EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
 http://181.78.106.127:9000/play/ca040/index.m3u8
