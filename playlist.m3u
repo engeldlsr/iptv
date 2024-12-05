@@ -89,12 +89,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" group-title="Entretenimiento",Comedy Central Alt
 http://181.78.106.127:9000/play/ca050/index.m3u8
 
+#EXTINF:-1 tvg-name="Magnolia Network" group-title="Entretenimiento",Magnolia Network
+http://74.48.44.156:1234/stream/asd/105/master.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-name="MGM+" group-title="Entretenimiento",MGM+
+http://74.48.44.156:1234/stream/asd/107/master.m3u8
 
 
 
