@@ -440,7 +440,7 @@ http://45.175.139.194:8000/play/42
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #T
-#EXTINF:-1 tvg-id="Teleuniverso.(TLUNI).do" tvg-name="TeleUniverso" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
+#EXTINF:-1 tvg-id="Canal 29 de TeleUniverso (República Dominicana).do" tvg-name="TeleUniverso" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1695753031743-Frame_184.webp" group-title="Variedades",Teleuniverso TV
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-name="TCM" group-title="Peliculas",TCM
