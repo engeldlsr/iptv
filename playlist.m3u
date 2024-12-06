@@ -409,7 +409,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/16
 #EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1753
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="Novelas",SONY NOVELAS
+#EXTINF:-1 tvg-id="sony.novelas.ch" tvg-name="Sony Novelas" tvg-logo="" group-title="Novelas",SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-nace="SPACE" group-title="Peliculas",SPACE
@@ -481,7 +481,7 @@ http://fl5.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.HDTV.(Norte).(TNTNOV).cl" group-title="Novelas",TNT Novelas
 http://streamsy.online:2999/venomj/EmoOmOskzq/39
 
-#EXTINF:-1 tvg-id="TNT.Novelas.(Norte).(TNTNOV).cl" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.(Norte).(TNTNOV).cl" group-title="Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series
