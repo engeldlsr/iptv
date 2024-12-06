@@ -478,10 +478,10 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/74
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas",TNT : US
 http://fl5.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.HDTV.(Norte).(TNTNOV).cl" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
 http://streamsy.online:2999/venomj/EmoOmOskzq/39
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.(Norte).(TNTNOV).cl" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685477002862-Frame_61.webp" group-title="Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series
