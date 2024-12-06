@@ -1,6 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
+#NUMBER
+#EXTINF:-1 tvg-name="30For30" tvg-logo="https://i.imgflip.com/9caf8j.jpg" group-title="Sports",30 For 30
+http://streamsy.online:2999/venomj/EmoOmOskzq/133
+
 #A
+#EXTINF:-1 tvg-name="ABC.us" group-title="NEWS",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NEWS",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento",A&E
 http://streamsy.online:2999/venomj/EmoOmOskzq/20
 
@@ -23,12 +33,18 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1746
 #EXTINF:-1 tvg-name="78 AXN LatinoAmerica" group-title="Entretenimiento",AXN
 http://181.78.106.127:9000/play/ca085/index.m3u8
 
+#EXTINF:-1 tvg-name="AXS TV" group-title="Sports",AXS TV
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/331.m3u8
+
 #B
 #EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entretenimiento",BBC AMERICA
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entretenimiento",BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+
+#EXTINF:-1 tvg-name="BeiN Sports" group-title="Sports",BeiN Sports
+http://181.78.106.127:9000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Entretenimiento",Buzzr
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
@@ -37,6 +53,14 @@ http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #C
 #EXTINF:-1 tvg-id="Catchy.Comedy.us" tvg-name="Catchy Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/catchy-comedy-us.png?raw=true" group-title="Entretenimiento",Catchy Comedy
 http://fl3.moveonjoy.com/Decades/index.m3u8
+
+#EXTINF:-1 tvg-name="221 CBS Sports Network" group-title="Sports",CBS Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-name="221 CBS Sports Network HD" group-title="Sports",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CDN.Deportes.(CDND).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",CINECANAL HD
 http://nxt.plus:8080/jesus01/jesus01/2833
@@ -56,13 +80,10 @@ http://nxt.plus:8080/jesus01/jesus01/59083
 #EXTINF:-1 tvg-name="138 Cinemax LatinoAmerica" group-title="Peliculas",CINEMAX Alt
 http://181.78.106.127:9000/play/ca079/index.m3u8
 
-
 #EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas",CINEMAX CH-1
 #http://190.61.42.218:9000/play/a067
 #EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas", CINEMAX CH-2
 #http://181.78.106.127:9000/play/ca079/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Entretenimiento",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
@@ -72,9 +93,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1 tvg-name="213 Comedy Central Latinoamerica" group-title="Entretenimiento",Comedy Central Alt
 http://181.78.106.127:9000/play/ca050/index.m3u8
 
+#EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports Alt
+http://streamsy.online:2999/venomj/EmoOmOskzq/1700
+#EXTINF:-1 tvg-name="Claro Sports 1 HD" group-title="Sports",Claro Sports 2
+http://181.78.106.127:9000/play/ca037/index.m3u8
+
 #D
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
 http://181.78.106.127:9000/play/ca073/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
+http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -83,8 +114,74 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-name="239 E! Latinoamerica" group-title="Entretenimiento",E!
 http://streamsy.online:2999/venomj/EmoOmOskzq/30
 
+####### ESPN CHANNELS ###########
+#EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN
+http://streamsy.online:2999/venomj/EmoOmOskzq/97
+#EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
+http://streamsy.online:2999/venomj/EmoOmOskzq/1732
+#EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3
+http://streamsy.online:2999/venomj/EmoOmOskzq/91
+#EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4
+http://streamsy.online:2999/venomj/EmoOmOskzq/90
+#EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5
+#http://45.228.234.210:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6
+http://45.169.163.83:8000/play/a19j
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
+http://190.60.32.178:8178/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
+http://streamsy.online:2999/venomj/EmoOmOskzq/528
+#EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1529px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
+#http://209.45.20.210:50001/play/a02p/index.m3u8
+#EXTINF:-1 tvg-chno="" tvg-name="ESPN US" group-title="Sports",ESPN : US
+http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2 : US
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS : US
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #F
+#EXTINF:-1 tvg-name="FANDUEL SPORTS NETWORK" group-title="Sports",FANDUEL SPORTS NETWORK
+http://streamsy.online:2999/venomj/EmoOmOskzq/1611
+
+#EXTINF:-1 tvg-chno="" tvg-name="Fanduel TV" group-title="Sports",Fanduel TV
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/332.m3u8
+
+
+############## FOX SPORTS CHANNELS ####################
+#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NEWS",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="FOX Business Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="NEWS",FOX Business Network
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+
+#EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+
+#EXTINF:-1 tvg-name="Fox NEWS" group-title="Live TV",FOX EAST
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.NEWS.us" tvg-name="FOX NEWS Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="NEWS",FOX NEWS Channel
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports
+http://streamsy.online:2999/venomj/EmoOmOskzq/92
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2
+http://streamsy.online:2999/venomj/EmoOmOskzq/93
+#http://streamsy.online:2999/venomj/EmoOmOskzq/1731
+#EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
+http://streamsy.online:2999/venomj/EmoOmOskzq/992
+
+#EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
+https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 US" group-title="Sports",FS1 : US
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FS2 : US
+#http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2 : US
+http://streamsy.online:2999/venomj/EmoOmOskzq/264
+
 #EXTINF:-1 tvg-name="319 FX Latino" group-title="Peliculas",FX
 http://streamsy.online:2999/venomj/EmoOmOskzq/1743
 #http://45.169.163.83:8000/play/a19c
@@ -110,6 +207,13 @@ http://181.78.106.127:9000/play/ca078/index.m3u8
 http://streamsy.online:2999/venomj/EmoOmOskzq/75
 #EXTINF:-1 tvg-chno="608" tvg-name="Golden Premiere" group-title="Peliculas",GOLDEN PREMIERE
 http://streamsy.online:2999/venomj/EmoOmOskzq/83
+
+#EXTINF:-1 tvg-name="401 GOLF" tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL._h1_.png" group-title="Sports",Golf TV
+http://streamsy.online:2999/venomj/EmoOmOskzq/293
+#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/293
+#EXTINF:-1 tvg-name="Golf Channel" group-title="Sports",GOLF CHANNEL
+http://streamsy.online:2999/venomj/EmoOmOskzq/89
+#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 
 #EXTINF:-1 tvg-name="Guate Vision" group-title="Entretenimiento",Guate Vision
 http://181.78.106.127:9000/play/ca021/index.m3u8
@@ -198,6 +302,9 @@ http://74.48.44.156:1234/stream/asd/107/master.m3u8
 #EXTINF:-1 tvg-name="MGM+ Hits" group-title="Entretenimiento",MGM+ Hits
 http://74.48.44.156:1234/stream/asd/109/master.m3u8
 
+#EXTINF:-1 tvg-name="MLB Network" group-title="Sports",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-name="MovieMax" group-title="Entretenimiento",MovieMax
 http://74.48.44.156:1234/stream/asd/113/master.m3u8
 
@@ -214,14 +321,26 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
 #N
-#EXTINF:-1 tvg-id="NBC.Sports.Network.us" tvg-name="NBC Sports Network" group-title="Live TV",NBC SPORT NET
-http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-name="NBC EAST" tvg-logo="" group-title="Live TV",NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
+#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
+#http://74.48.44.156:1234/stream/asd/482/master.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Network.us" tvg-name="NBC Sports Network" group-title="Live TV",NBC SPORT NET
+http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="" group-title="Peliculas",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL NETWORK
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #Ñ
 
@@ -230,6 +349,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #O
 #EXTINF:-1 group-title="Peliculas",OLD
 https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Sports",OUTSIDE TV
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
 #P
 #EXTINF:-1 tvg-name="Paramount Network" group-title="Peliculas",Paramount Network
@@ -272,6 +394,15 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #S
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports",SEC Network
+http://streamsy.online:2999/venomj/EmoOmOskzq/295
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-name="SNF" group-title="Sports",SNF
+http://streamsy.online:2999/venomj/EmoOmOskzq/139
+
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="Sony Canal Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240709T002107SQUARE.png" group-title="Entretenimiento",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
 
@@ -287,6 +418,12 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 http://streamsy.online:2999/venomj/EmoOmOskzq/79
 #http://181.78.106.127:9000/play/ca072/index.m3u8
 
+#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",SPECTRUM SPORTSNET
+http://streamsy.online:2999/venomj/EmoOmOskzq/1609
+
+#EXTINF:-1 tvg-name="Spectrum.SportsNet.us" group-title="Sports",Spectrum Sportsnet
+http://74.48.44.156:1234/stream/asd/153/master.m3u8
+
 #EXTINF:-1 tvg-name="829 Star LatinoAmerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
 http://streamsy.online:2999/venomj/EmoOmOskzq/15
 #EXTINF:-1 tvg-name="Star Latino America" group-title="Peliculas",STAR CHANNEL Alt
@@ -301,7 +438,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/86
 #EXTINF:-1 tvg-name="Star Channel" group-title="Peliculas",STAR CHANNEL Alt
 http://45.175.139.194:8000/play/42
 
-
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies",SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
@@ -315,8 +451,20 @@ http://200.60.124.19:29000/play/a01s
 #EXTINF:-1 tvg-name="TCM America Latina" group-title="Peliculas",TCM
 http://45.175.139.194:8000/play/39
 
+#EXTINF:-1 tvg-name="Noticias Telemundo" group-title="NEWS", TELEMUNDO 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
 #EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-name="Tigo Sports" group-title="Sports",Tigo Sports
+http://181.78.106.127:9000/play/ca038/index.m3u8
 
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
@@ -344,13 +492,41 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/33
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series Alt
 http://nxt.plus:8080/jesus01/jesus01/16925
 
+#EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-name="TSN 3" group-title="Sports",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-name="TSN 4" group-title="Sports",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+
+#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",TUDN : US
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
+#EXTINF:-1 tvg-name=TVC Deportes"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Sports",TVC Deportes
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
+#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="" group-title="Sports",TVC Deportes
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
+
 #EXTINF:-1 tvg-chno="430" tvg-name="TV Land Classic" group-title="Entretenimiento",TV Land 
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/300.m3u8
 
 #EXTINF:-1 tvg-chno="430" tvg-name="TV One" group-title="Entretenimiento",TV One
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/384.m3u8
 
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="" group-title="Sports",TyC Sports
+http://streamsy.online:2999/venomj/EmoOmOskzq/1678
+
 #U
+#EXTINF:-1 tvg-name="UFC PPV" tvg-logo="https://i.imgflip.com/8qsuw1.png" group-title="Sports",UFC PPV
+http://streamsy.online:2999/venomj/EmoOmOskzq/631
+
 #EXTINF:-1 tvg-name="Unicable" group-title="Variedades",Unicable
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/24
 
@@ -372,23 +548,50 @@ http://190.61.42.218:9000/play/a008
 #EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
 http://181.78.106.127:9000/play/ca088/index.m3u8
 
+#EXTINF:-1 tvg-name="Univision East" group-title="NEWS",UNIVISION
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
+
 #V
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entretenimiento",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #W
+#EXTINF:-1 tvg-name="Wapa Deportes" group-title="Sports",Wapa Deportes : PR
+http://streamsy.online:2999/venomj/EmoOmOskzq/128
+
 #EXTINF:-1 tvg-name="Warner LatinoAmerica HD" group-title="Peliculas",WBTV HD
 http://streamsy.online:2999/venomj/EmoOmOskzq/17
+
+#EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
+http://181.78.106.127:9000/play/ca040/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE : US
+http://fl2.moveonjoy.com/WWE/index.m3u8
 
 #X
 
 
 
 #Y
-
-
+#EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="Sports",US: YES NETWORK
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -429,204 +632,6 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-######### SPORTS CHANNELS ############################
-#EXTINF:-1 tvg-name="AXS TV" group-title="Sports",AXS TV
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/331.m3u8
-
-#EXTINF:-1 tvg-name="221 CBS Sports Network" group-title="Sports",CBS Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-name="221 CBS Sports Network HD" group-title="Sports",CBS Sports Network
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="CDN.Deportes.(CDND).do" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEagOVLdQmy3uD8JCuj9_rOHhyphenhyphenC0Pv_HWssEA-hBmkGKzKpiphrhUlgkBgQCumcCt4yDu9QTBPdewhqL86u6DefeH7ODpUqr3ZuRzVJHkSdxtWYmgmTjqfF0G0FAXlGJqGdukuyiKhLQrn/w700-h400-p-k-no-nu/En+vivo+cdn++deportes.png" group-title="Sports",CDN Deportes
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
-
-#EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-name="Claro Sports 1" group-title="Sports",Claro Sports Alt
-http://streamsy.online:2999/venomj/EmoOmOskzq/1700
-#EXTINF:-1 tvg-name="Claro Sports 1 HD" group-title="Sports",Claro Sports 2
-http://181.78.106.127:9000/play/ca037/index.m3u8
-
-
-#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
-http://streamsy.online:2999/venomj/EmoOmOskzq/1650
-
-
-####### ESPN CHANNELS ###########
-
-#EXTINF:-1 tvg-name="ESPN HD Latinoamerica" tvg-logo="" group-title="Sports",ESPN
-http://streamsy.online:2999/venomj/EmoOmOskzq/97
-#EXTINF:-1 tvg-name="257 ESPN 2 LatinoAmerica HD" group-title="Sports",ESPN 2
-http://streamsy.online:2999/venomj/EmoOmOskzq/1732
-#EXTINF:-1 tvg-name="510 ESPN 3 Latinoamerica" group-title="Sports",ESPN 3
-http://streamsy.online:2999/venomj/EmoOmOskzq/91
-#EXTINF:-1 tvg-name="ESPN 4 México" group-title="Sports",ESPN  4
-http://streamsy.online:2999/venomj/EmoOmOskzq/90
-#EXTINF:-1 tvg-name="ESPN 5 Latinoamerica" group-title="Sports",ESPN 5
-#http://45.228.234.210:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 6 Latinoamerica" group-title="Sports",ESPN 6
-http://45.169.163.83:8000/play/a19j
-#EXTINF:-1 tvg-name="ESPN 7 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Sports",ESPN 7
-http://190.60.32.178:8178/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-name="ESPN Deportes Latinoamerica" group-title="Sports",ESPN Deportes
-http://streamsy.online:2999/venomj/EmoOmOskzq/528
-#EXTINF:-1 tvg-name="ESPN Premium Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1529px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
-#http://209.45.20.210:50001/play/a02p/index.m3u8
-#EXTINF:-1 tvg-chno="" tvg-name="ESPN US" group-title="Sports",ESPN : US
-http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2 : US
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPN NEWS : US
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-name="Fanduel TV" group-title="Sports",Fanduel TV
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/332.m3u8
-
-############## FOX SPORTS CHANNELS ####################
-
-#EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Sports",FOX DEPORTES
-https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
-
-#EXTINF:-1 tvg-name="Fox Sports" group-title="Sports",Fox Sports
-http://streamsy.online:2999/venomj/EmoOmOskzq/92
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sports",Fox Sports 2
-http://streamsy.online:2999/venomj/EmoOmOskzq/93
-#http://streamsy.online:2999/venomj/EmoOmOskzq/1731
-#EXTINF:-1 tvg-name="Fox Sports Premium" tvg-logo="" group-title="Sports",FOX Sports PREMIUM
-http://streamsy.online:2999/venomj/EmoOmOskzq/992
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1 US" group-title="Sports",FS1 : US
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-name="Fox Sports 2 US" group-title="Sports",FS2 : US
-#http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="FS2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="Sports",FS2 : US
-http://streamsy.online:2999/venomj/EmoOmOskzq/264
-
-#EXTINF:-1 tvg-name="401 GOLF" tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL._h1_.png" group-title="Sports",Golf TV
-http://streamsy.online:2999/venomj/EmoOmOskzq/293
-#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/293
-#EXTINF:-1 tvg-name="Golf Channel" group-title="Sports",GOLF CHANNEL
-http://streamsy.online:2999/venomj/EmoOmOskzq/89
-#http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
-
-#EXTINF:-1 tvg-name="MLB Network" group-title="Sports",MLB Network
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="456 NBATV" group-title="Sports",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",NBC SPORTS Bay Area
-#http://74.48.44.156:1234/stream/asd/482/master.m3u8
-
-#EXTINF:-1 tvg-name="NFL Network" group-title="Sports",NFL NETWORK
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="NHL Network" group-title="Sports",NHL NETWORK
-http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" group-title="Sports",OUTSIDE TV
-http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
-
-#EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-name="TUDN" group-title="Sports",TUDN
-http://181.78.106.127:9000/play/ca025/index.m3u8
-
-#EXTINF:-1 tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Sports",TUDN : US
-http://tvmate.icu:8080/Alan/Alan1234/82241
-
-#EXTINF:-1 tvg-name="TSN 1" group-title="Sports",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-name="TSN 2" group-title="Sports",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-name="TSN 3" group-title="Sports",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-name="TSN 4" group-title="Sports",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-name="TSN 5" group-title="Sports",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-
-#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="Sports",SEC Network
-http://streamsy.online:2999/venomj/EmoOmOskzq/295
-
-#EXTINF:-1 tvg-name="Spectrum.SportsNet.us" group-title="Sports",Spectrum Sportsnet
-http://74.48.44.156:1234/stream/asd/153/master.m3u8
-
-#EXTINF:-1 tvg-name="WWE West" group-title="Sports",WWE
-http://181.78.106.127:9000/play/ca040/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" group-title="Sports",WWE : US
-http://fl2.moveonjoy.com/WWE/index.m3u8
-
-
-#EXTINF:-1 tvg-name="UFC PPV" tvg-logo="https://i.imgflip.com/8qsuw1.png" group-title="Sports",UFC PPV
-http://streamsy.online:2999/venomj/EmoOmOskzq/631
-
-#EXTINF:-1 tvg-name="30For30" tvg-logo="https://i.imgflip.com/9caf8j.jpg" group-title="Sports",30 For 30
-http://streamsy.online:2999/venomj/EmoOmOskzq/133
-
-#EXTINF:-1 tvg-name="NBCSBA.us" group-title="Sports",SPECTRUM SPORTSNET
-http://streamsy.online:2999/venomj/EmoOmOskzq/1609
-
-#EXTINF:-1 tvg-name="FANDUEL SPORTS NETWORK" group-title="Sports",FANDUEL SPORTS NETWORK
-http://streamsy.online:2999/venomj/EmoOmOskzq/1611
-
-#EXTINF:-1 tvg-name="Yes Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" group-title="Sports",US: YES NETWORK
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="Wapa Deportes" group-title="Sports",Wapa Deportes : PR
-http://streamsy.online:2999/venomj/EmoOmOskzq/128
-
-#EXTINF:-1 tvg-name="SNF" group-title="Sports",SNF
-http://streamsy.online:2999/venomj/EmoOmOskzq/139
-
-
-#EXTINF:-1 tvg-name="Tigo Sports" group-title="Sports",Tigo Sports
-http://181.78.106.127:9000/play/ca038/index.m3u8
-#EXTINF:-1 tvg-name="BeiN Sports" group-title="Sports",BeiN Sports
-http://181.78.106.127:9000/play/ca039/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
-http://181.78.105.146:2000/play/a08m/index.m3u8
-
-#EXTINF:-1 tvg-name=TVC Deportes"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="Sports",TVC Deportes
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
-
-#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="" group-title="Sports",TyC Sports
-http://streamsy.online:2999/venomj/EmoOmOskzq/1678
-
-#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="" group-title="Sports",TVC Deportes
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/306
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ############ CARTOON ###########################
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK Latinoamerica" group-title="Cartoon",CARTOON NETWORK
@@ -650,25 +655,8 @@ http://181.78.8.90:16123/play/ch05
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ############### NEWS #################
 
-#A
-#EXTINF:-1 tvg-name="ABC.us" group-title="NEWS",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="NEWS",ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #B
 #EXTINF:-1 tvg-id="BBC.NEWS.-.North.America.HD.us" tvg-name="BBC WORLD NEWS" group-title="NEWS",BBC WORLD NEWS
@@ -716,32 +704,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-60089d97f682
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/proceso-storage/new-footer/Logo-trazo.png" group-title="NEWS",En Television
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 
-#F
-#EXTINF:-1 tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="NEWS",FOX
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="FOX Business Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="NEWS",FOX Business Network
-http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-name="Fox NEWS" group-title="Live TV",FOX EAST US
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Fox.NEWS.us" tvg-name="FOX NEWS Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="NEWS",FOX NEWS Channel
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
-
-#G
-
-#H
 
 
-#EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
-#EXTINF:-1 tvg-name="Noticias Telemundo" group-title="NEWS", TELEMUNDO 51
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
-#EXTINF:-1 tvg-name="Univision East" group-title="NEWS",UNIVISION : US
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.ts
-
-#EXTINF:-1 tvg-name="France 24" group-title="NEWS",FR FRANCE24 SD
-https://s5.mexside.net:1936/france24/france24/chunklist_w561878371.m3u8
 
 
 ############## Documentales ######################
@@ -837,6 +802,13 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 tvg-name="672 TVCD" tvg-logo="" group-title="Live TV",TVC
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/28
+
+
+
+
+
+
+
 
 
 ################## OTROS ###################
