@@ -375,10 +375,10 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 
 #R
-#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" group-title="Novelas",RCN Novelas
+#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/793px-RCN_Novelas_logo_2019.png" group-title="Novelas",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
+#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/793px-RCN_Novelas_logo_2019.png" group-title="Novelas",RCN Novelas Alt
 http://181.78.106.127:9000/play/ca014/index.m3u8
 
 #EXTINF:-1 tvg-name="Reelz Channel" group-title="Entretenimiento",Reelz
@@ -409,7 +409,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/16
 #EXTINF:-1 tvg-name="Sony Movies" group-title="Peliculas",SONY CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1753
 
-#EXTINF:-1 tvg-id="sony.novelas.ch" tvg-name="Sony Novelas" tvg-logo="" group-title="Novelas",SONY NOVELAS
+#EXTINF:-1 tvg-id="sony.novelas.ch" tvg-name="Sony Novelas" tvg-logo="https://ia800406.us.archive.org/31/items/brootv_SONY_CCN/SONY_NOVELAS.png" group-title="Novelas",SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="226" tvg-nace="SPACE" group-title="Peliculas",SPACE
@@ -478,10 +478,10 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/74
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540851218-The_History_Channel.webp" group-title="Peliculas",TNT : US
 http://fl5.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Novelas.HDTV.(Norte).(TNTNOV).cl" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.HDTV.(Norte).(TNTNOV).cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas
 http://streamsy.online:2999/venomj/EmoOmOskzq/39
 
-#EXTINF:-1 tvg-id="TNT.Novelas.(Norte).(TNTNOV).cl" group-title="Novelas",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.(Norte).(TNTNOV).cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/1200px-Logo_TNT_Novelas.png" group-title="Novelas",TNT Novelas
 http://200.60.124.19:29000/play/a06r
 
 #EXTINF:-1 tvg-name="648 TNT Series LatinoAmerica HD" group-title="Series",TNT Series
