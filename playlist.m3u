@@ -603,10 +603,10 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CERTV.Canal.4.(CERTV4).do" tvg-name="RTVD4" tvg-logo="https://rtvd.gob.do/wp-content/uploads/2022/06/LOGO-RTVD-FINAL-01-e1656343973481.png" group-title="Variedades",RTVD|4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1238440213_b3440640.m3u8
 
-#EXTINF:-1 tvg-id="Antena.Latina.(ANTLA).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
+#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana).do" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antena_Latina_2016.webp/800px-Antena_Latina_2016.webp.png" group-title="Variedades",Antena 7
 https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Color.VisiÃ³n.(COLORVIS).do" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variedades",Color Vision
+#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" tvg-logo="https://colorvision.com.do/wp-content/uploads/colorvision-canal-9-republica-dominicana-la-casa-del-talento-dominicano.png" group-title="Variedades",Color Vision
 http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Microvision 10 (República Dominicana).do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj6ggqx--Ttj9ZVlf0Sp0oPqiSsbndxQa-6yvCzhjYqOkspY-Yrxch9aHl_LGlIYFgkp2Np6jSc7yFEyXOzYYppdOi-GsbXZuCsHozZc1h1EmeWK5KSi1Wb1oyzX8nowXkbBOcwUfnKnMPN0O7ONPqYSdkBou4Lxp3VKy_OPxpj54PhmOWoEc6p71TtYg" group-title="Variedades",Microvision
