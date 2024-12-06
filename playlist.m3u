@@ -375,10 +375,10 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 
 #R
-#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
+#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" group-title="Novelas",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
+#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
 http://181.78.106.127:9000/play/ca014/index.m3u8
 
 #EXTINF:-1 tvg-name="Reelz Channel" group-title="Entretenimiento",Reelz
