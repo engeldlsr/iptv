@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
 #NUMBER
 #EXTINF:-1 tvg-name="30For30" tvg-logo="https://i.imgflip.com/9caf8j.jpg" group-title="Sports",30 For 30
@@ -104,7 +104,7 @@ http://181.78.106.127:9000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
 http://181.78.106.127:9000/play/ca073/index.m3u8
 
-#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
 http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
@@ -205,7 +205,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1624
 http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1 tvg-name="Golden Plus" group-title="Peliculas",GOLDEN PLUS
 http://streamsy.online:2999/venomj/EmoOmOskzq/75
-#EXTINF:-1 tvg-chno="608" tvg-name="Golden Premiere" group-title="Peliculas",GOLDEN PREMIERE
+#EXTINF:-1 tvg-chno="608" tvg-name="Golden Premier" group-title="Peliculas",GOLDEN PREMIER
 http://streamsy.online:2999/venomj/EmoOmOskzq/83
 
 #EXTINF:-1 tvg-name="401 GOLF" tvg-logo="https://m.media-amazon.com/images/I/51OUvjSSpZL._h1_.png" group-title="Sports",Golf TV
@@ -215,7 +215,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/293
 http://streamsy.online:2999/venomj/EmoOmOskzq/89
 #http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/89
 
-#EXTINF:-1 tvg-name="Guate Vision" group-title="Entretenimiento",Guate Vision
+#EXTINF:-1 tvg-name="Guatevision" group-title="Entretenimiento",Guatevision
 http://181.78.106.127:9000/play/ca021/index.m3u8
 
 #H
@@ -247,7 +247,7 @@ http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBO Mundi" group-title="Peliculas",HBO MUNDI
 http://streamsy.online:2999/venomj/EmoOmOskzq/1628
 
-#EXTINF:-1 tvg-name="HBO Plus LatinoAmerica" group-title="Peliculas",HBO Plus
+#EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).mx" tvg-name="HBO Plus LatinoAmerica" group-title="Peliculas",HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO PoP" group-title="Peliculas",HBO PoP Alt
@@ -278,10 +278,10 @@ https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 
 #L
-#EXTINF:-1 tvg-name="La 1" group-title="Variedades",La 1
+#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="La 1" group-title="Variedades",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
-#EXTINF:-1 tvg-name="La 2" group-title="Variedades",La 2
+#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="La 2" group-title="Variedades",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
 #EXTINF:-1 tvg-name="243 Lifetime Latinoamerica" group-title="Entretenimiento",LIFETIME
@@ -375,7 +375,7 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 
 #R
-#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
+#EXTINF:-1 tvg-id="RCN.Novelas.(RCNNOV).cl" tvg-logo="https://www.claro.com.do/portal/do/recursos_contenido/1685540396065-Frame_72.webp" group-title="Novelas",RCN Novelas
 http://45.228.234.210:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-name="RCN" group-title="Novelas",RCN Novelas Alt
@@ -400,8 +400,6 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/295
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Sports",SKY La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-name="SNF" group-title="Sports",SNF
-http://streamsy.online:2999/venomj/EmoOmOskzq/139
 
 #EXTINF:-1 tvg-id="USAJ3504719A" tvg-name="Sony Canal Competencias" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20240709T002107SQUARE.png" group-title="Entretenimiento",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/2000.m3u8
@@ -463,7 +461,7 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 tvg-chno="217" tvg-name="Tennis Channel" group-title="Sports",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name="Tigo Sports" group-title="Sports",Tigo Sports
+#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" tvg-name="Tigo Sports" group-title="Sports",Tigo Sports
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS
@@ -471,7 +469,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS Alt
 http://181.78.106.127:9000/play/ca013/index.m3u8
 
-#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TLN TLNovelas
+#EXTINF:-1 tvg-id="Tlnovelas.ch" tvg-name="Televisa" group-title="Novelas",TLN TLNovelas
 http://181.78.106.127:9000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT
@@ -545,7 +543,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1662
 #EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Peliculas",UNIVERSAL COMEDIA
 http://190.61.42.218:9000/play/a008
 
-#EXTINF:-1 tvg-chno="" tvg-name="Universo" group-title="Live TV",Universo
+#EXTINF:-1 tvg-name="Universo" group-title="Live TV",Universo
 http://181.78.106.127:9000/play/ca088/index.m3u8
 
 #EXTINF:-1 tvg-name="Univision East" group-title="NEWS",UNIVISION
@@ -669,7 +667,7 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Caracol" group-title="Internacionales",CARACOL
 http://181.225.191.35:14002/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-name="CBS EAST" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-NEWS-8211-cbsn.png" group-title="Live TV",CBS EAST
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://static.cdnlogo.com/logos/c/41/cbs-NEWS-8211-cbsn.png" group-title="Live TV",CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-chno="273" tvg-name="CGTN Español" tvg-logo="" group-title="Live TV",CGTN Español
