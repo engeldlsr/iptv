@@ -452,7 +452,7 @@ http://45.175.139.194:8000/play/39
 #EXTINF:-1 tvg-name="Noticias Telemundo" group-title="NEWS", TELEMUNDO 51
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-#EXTINF:-1 tvg-name="Televisa" group-title="Novelas",TELEVISA NOVELAS
+#EXTINF:-1 tvg-name="Televisa" tvg-logo="https://e7.pngegg.com/pngimages/573/189/png-clipart-televisa-logo-television-univision-genio-television-orange-thumbnail.png" group-title="Novelas",TELEVISA NOVELAS
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telenord10" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="NEWS",Telenord10
@@ -469,7 +469,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/40
 #EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="" group-title="Novelas",TLNOVELAS Alt
 http://181.78.106.127:9000/play/ca013/index.m3u8
 
-#EXTINF:-1 tvg-id="Tlnovelas.ch" tvg-name="Televisa" group-title="Novelas",TLN TLNovelas
+#EXTINF:-1 tvg-id="Tlnovelas.ch" tvg-name="TLN TLNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="Novelas",TLN TLNovelas
 http://181.78.106.127:9000/play/ca016/index.m3u8
 
 #EXTINF:-1 tvg-name="647" group-title="Peliculas",TNT
