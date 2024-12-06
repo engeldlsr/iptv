@@ -104,7 +104,7 @@ http://181.78.106.127:9000/play/ca037/index.m3u8
 #EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
 http://181.78.106.127:9000/play/ca073/index.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Sports",DAZN F1
+#EXTINF:-1 tvg-id="DAZN.F1.es" group-title="Sports",DAZN F1
 http://streamsy.online:2999/venomj/EmoOmOskzq/1650
 
 #EXTINF:-1 tvg-name="DW en Español" tvg-logo="" group-title="Variedades",DW en Español
