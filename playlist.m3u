@@ -820,7 +820,7 @@ http://45.175.139.194:8000/play/34
 
 
 
-#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7" group-title="Anime",Azteca 7
+#EXTINF:-1 tvg-id="XHIMT.Azteca.7.DF.(AZT-7).mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" group-title="Anime",Azteca 7
 http://181.78.106.127:9000/play/ca023/index.m3u8
 
 
