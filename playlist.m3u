@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz,https://www.bevy.be/bevyfiles/dominican.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz"
 
 #NUMBER
 #EXTINF:-1 tvg-name="30For30" tvg-logo="https://i.imgflip.com/9caf8j.jpg" group-title="Sports",30 For 30
@@ -77,8 +77,9 @@ http://45.228.234.210:8000/play/a01m/index.m3u8
 http://181.78.8.90:16123/play/ch51
 #EXTINF:-1 tvg-name="138 Cinemax Latino HD" group-title="Peliculas",CINEMAX
 http://nxt.plus:8080/jesus01/jesus01/59083
+
 #EXTINF:-1 tvg-name="138 Cinemax LatinoAmerica" group-title="Peliculas",CINEMAX Alt
-http://181.78.106.127:9000/play/ca079/index.m3u8
+#http://181.78.106.127:9000/play/ca079/index.m3u8
 
 #EXTINF:-1 tvg-name="Cinemax" group-title="Peliculas",CINEMAX CH-1
 #http://190.61.42.218:9000/play/a067
@@ -101,7 +102,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1700
 http://181.78.106.127:9000/play/ca037/index.m3u8
 
 #D
-#EXTINF:-1 tvg-name="129" group-title="Peliculas",D Pelicula
+#EXTINF:-1 tvg-name="D Pelicula" group-title="Peliculas",D Pelicula
 http://181.78.106.127:9000/play/ca073/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" group-title="Sports",DAZN F1
@@ -228,8 +229,9 @@ http://fl5.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2 LatinoAmerica" group-title="Peliculas",HBO 2
 http://streamsy.online:2999/venomj/EmoOmOskzq/121
+
 #EXTINF:-1 tvg-name="HBO 2 LatinoAmerica" group-title="Peliculas",HBO 2 Alt
-http://45.169.163.83:8000/play/a19b
+#http://45.169.163.83:8000/play/a19b
 
 #EXTINF:-1 tvg-name="HBO 2 East" tvg-logo="" group-title="Peliculas",HBO 2 : US
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -247,7 +249,7 @@ http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBO Mundi" group-title="Peliculas",HBO MUNDI
 http://streamsy.online:2999/venomj/EmoOmOskzq/1628
 
-#EXTINF:-1 tvg-id="HBO.Plus.HDTV.(Mexico).(HBO+HD).mx" tvg-name="HBO Plus LatinoAmerica" group-title="Peliculas",HBO Plus
+#EXTINF:-1 tvg-id="HBO.Plus.(Mexico).(HBO+).mx" tvg-name="HBO Plus LatinoAmerica" group-title="Peliculas",HBO Plus
 http://181.78.106.127:9000/play/ca070/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO PoP" group-title="Peliculas",HBO PoP Alt
