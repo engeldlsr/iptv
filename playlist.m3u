@@ -433,7 +433,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/86
 #EXTINF:-1 tvg-name="Star Channel" group-title="Peliculas",STAR CHANNEL Alt
 http://45.175.139.194:8000/play/42
 
-#EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movies",SundanceTV
+#EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Peliculas",SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #T
