@@ -419,7 +419,7 @@ http://streamsy.online:2999/venomj/EmoOmOskzq/1609
 #EXTINF:-1 tvg-name="Spectrum.SportsNet.us" group-title="Sports",Spectrum Sportsnet
 http://74.48.44.156:1234/stream/asd/153/master.m3u8
 
-#EXTINF:-1 tvg-name="Star Latino America" tvg-logo="" group-title="Peliculas",STAR CHANNEL
+#EXTINF:-1 tvg-name="Star Latinoamerica HD" tvg-logo="" group-title="Peliculas",STAR CHANNEL
 http://streamsy.online:2999/venomj/EmoOmOskzq/15
 
 #EXTINF:-1 tvg-name="Star Latinoamerica" group-title="Peliculas",STAR CHANNEL Alt
