@@ -422,7 +422,7 @@ http://74.48.44.156:1234/stream/asd/153/master.m3u8
 #EXTINF:-1 tvg-name="Star Latino America" tvg-logo="" group-title="Peliculas",STAR CHANNEL
 http://streamsy.online:2999/venomj/EmoOmOskzq/15
 
-#EXTINF:-1 tvg-name="Star Channel Latino America" group-title="Peliculas",STAR CHANNEL Alt
+#EXTINF:-1 tvg-name="Star Channel Latinoamerica" group-title="Peliculas",STAR CHANNEL Alt
 http://streamsy.online:2999/venomj/EmoOmOskzq/1747
 
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" group-title="Peliculas",STUDIO UNIVERSAL
